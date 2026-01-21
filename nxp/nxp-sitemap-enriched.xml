@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:coveo="https://www.coveo.com/en/company/about-us">
+    <url>
+        <loc>https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform:S32-FAMILY</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>Platform</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform</category>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32g-vehicle-network-processors:S32G-PROCESSORS</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>ProductFamily</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32G Vehicle Network Processors</category>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32j-ethernet-switches-and-network-controllers:S32J</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>ProductFamily</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32J Ethernet Switches and Network Controllers</category>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32k-auto-general-purpose-mcus:S32K-MCUS</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>ProductFamily</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32K Auto General-Purpose MCUs</category>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32m-integrated-solutions-for-mc:S32M</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>ProductFamily</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32M Integrated Solutions for MC</category>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32n-vehicle-super-integration-processors:S32N</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>ProductFamily</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32N Vehicle Super-Integration Processors</category>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32r-radar-processing:S32R-FAMILY</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>ProductFamily</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing</category>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32z-and-s32e-real-time-processors:S32Z-E-REAL-TIME-PROCESSORS</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>ProductFamily</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32Z and S32E Real-Time Processors</category>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32r-radar-processing/s32r41-high-performance-processor-for-high-resolution-radar:S32R41</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>Product</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing|S32R41</category>
+            <image>https://www.nxp.com/assets/images/en/chip-images/S32R41-CHIPSHOT-TOP-OG.png</image>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32r-radar-processing/s32r45-high-performance-processor-for-imaging-radar:S32R45</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>Product</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing|S32R45</category>
+            <image>https://www.nxp.com/assets/images/en/chip-images/S32R45-OG.png</image>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32r-radar-processing/s32r47-high-performance-imaging-radar-processor-for-automotive-and-industrial-applications:S32R47</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>Product</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing|S32R47</category>
+            <image>https://www.nxp.com/assets/images/en/chip-images/S32R47-CHIPSHOT.jpg</image>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32r-radar-processing/radar-microcontroller:S32R294</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>Product</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing|S32R294</category>
+            <image>https://www.nxp.com/assets/images/en/chip-images/S32R294-CHIP-FRONT_OG.jpg</image>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/S32R2X</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>Product</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing|S32R26</category>
+            <image>https://www.nxp.com/assets/images/en/chip-images/PF5024-OG.jpg?imwidth=300</image>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/S32R2X</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>Product</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing|S32R27</category>
+            <image>https://www.nxp.com/assets/images/en/chip-images/PF5024-OG.jpg?imwidth=300</image>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.nxp.com/products/S32R37</loc>
+        <lastmod>2026-01-21</lastmod>
+        <coveo:metadata>
+            <objecttype>Product</objecttype>
+            <category>Processors and Microcontrollers;Processors and Microcontrollers|S32 Automotive Platform;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing;Processors and Microcontrollers|S32 Automotive Platform|S32R Radar Processing|S32R37</category>
+            <image>https://www.nxp.com/assets/images/en/dev-board-image/SJA1105.jpg?imwidth=300</image>
+        </coveo:metadata>
+    </url>
+</urlset>
