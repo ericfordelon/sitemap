@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://ericfordelon.github.io/sitemap/industrialmetalssupply/sitemap_blogs.xml</loc>
+        <lastmod>2026-01-27</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://ericfordelon.github.io/sitemap/industrialmetalssupply/sitemap_content.xml</loc>
+        <lastmod>2026-01-27</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://ericfordelon.github.io/sitemap/industrialmetalssupply/sitemap_literature.xml</loc>
+        <lastmod>2026-01-27</lastmod>
+    </sitemap>
+</sitemapindex>
