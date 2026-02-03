@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:coveo="https://www.coveo.com/en/company/about-us">
+    <url>
+        <loc>https://www.usana.com/ux/cart/en-US/page/pc-signup</loc>
+        <lastmod>2026-02-03</lastmod>
+        <coveo:metadata>
+            <title>Preferred Customer Sign Up</title>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.usana.com/ux/cart/en-US/page/affiliate-signup</loc>
+        <lastmod>2026-02-03</lastmod>
+        <coveo:metadata>
+            <title>Affiliate Sign Up</title>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.usana.com/ux/dotcom/enu-US/opportunity</loc>
+        <lastmod>2026-02-03</lastmod>
+        <coveo:metadata>
+            <title>Business Opportunity</title>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.usana.com/ux/dotcom/enu-US/refund-and-return-policy</loc>
+        <lastmod>2026-02-03</lastmod>
+        <coveo:metadata>
+            <title>Refund and Return Policy</title>
+        </coveo:metadata>
+    </url>
+    <url>
+        <loc>https://www.usana.com/ux/dotcom/enu-US/give-back/thf</loc>
+        <lastmod>2026-02-03</lastmod>
+        <coveo:metadata>
+            <title>Give Back - USANA True Health Foundation</title>
+        </coveo:metadata>
+    </url>
+</urlset>

@@ -16,4 +16,8 @@
         <loc>https://ericfordelon.github.io/sitemap/usana/qa-sitemap.xml</loc>
         <lastmod>2026-02-03</lastmod>
     </sitemap>
+    <sitemap>
+        <loc>https://ericfordelon.github.io/sitemap/usana/others.xml</loc>
+        <lastmod>2026-02-03</lastmod>
+    </sitemap>
 </sitemapindex>
