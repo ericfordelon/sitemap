@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:coveo="https://www.coveo.com/en/company/about-us">
+
+    <!-- HTML Pages -->
+    <url>
+        <loc>https://onewabash.com/products/trailers/van-trailers</loc>
+        <lastmod>2026-03-01</lastmod>
+        <coveo:metadata>
+            <title>Van Trailers Overview</title>
+            <content_type>Product Page</content_type>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://onewabash.com/products/trailers/van-trailers/how-to-buy</loc>
+        <lastmod>2026-03-01</lastmod>
+        <coveo:metadata>
+            <title>How to Buy Wabash Van Trailers</title>
+            <content_type>Product Page</content_type>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://onewabash.com/products/trailers/van-trailers/products/dry-vans/duraplate</loc>
+        <lastmod>2026-03-01</lastmod>
+        <coveo:metadata>
+            <title>DuraPlate Dry Van Trailer</title>
+            <content_type>Product Page</content_type>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://onewabash.com/products/trailers/van-trailers/products/dry-vans/duraplate-hd</loc>
+        <lastmod>2026-03-01</lastmod>
+        <coveo:metadata>
+            <title>DuraPlate HD Dry Van Trailer</title>
+            <content_type>Product Page</content_type>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://onewabash.com/products/trailers/van-trailers/products/refrigerated-vans/reefer-with-EcoNex</loc>
+        <lastmod>2026-03-01</lastmod>
+        <coveo:metadata>
+            <title>Refrigerated Van Trailer with EcoNex Technology</title>
+            <content_type>Product Page</content_type>
+        </coveo:metadata>
+    </url>
+
+    <!-- PDF Documents - Operator Manuals -->
+    <url>
+        <loc>https://onewabash.com/docs/default-source/wabash-trailer-downloads/wabash-trailer-truck-bodies-parts-service-documents/mbs-1p.pdf?sfvrsn=bea526ec_2</loc>
+        <lastmod>2026-03-01</lastmod>
+        <coveo:metadata>
+            <title>MBS-1P Service Manual</title>
+            <content_type>PDF Document</content_type>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://onewabash.com/docs/default-source/wabash-trailer-downloads/wabash-trailer-truck-bodies-parts-service-documents/mbs-2.pdf?sfvrsn=a4545eb8_2</loc>
+        <lastmod>2026-03-01</lastmod>
+        <coveo:metadata>
+            <title>MBS-2 Service Manual</title>
+            <content_type>PDF Document</content_type>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://onewabash.com/docs/default-source/wabash-trailer-downloads/wabash_operatorsmanual_rev042412-(1).pdf?sfvrsn=6c0c1add_2</loc>
+        <lastmod>2026-03-01</lastmod>
+        <coveo:metadata>
+            <title>Wabash Trailer Operator's Manual</title>
+            <content_type>PDF Document</content_type>
+        </coveo:metadata>
+    </url>
+
+    <!-- PDF Documents - Product Sheets -->
+    <url>
+        <loc>https://onewabash.com/docs/default-source/wabash-trailer-downloads/van-trailers-product-sheets/Dry-van-duraplate-hd-cell-core-tech.pdf?utm_source=website&amp;utm_medium=downloadable&amp;utm_campaign=wabash_hd_dryvan</loc>
+        <lastmod>2026-03-01</lastmod>
+        <coveo:metadata>
+            <title>DuraPlate HD Cell Core Technology Product Sheet</title>
+            <content_type>PDF Document</content_type>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://onewabash.com/docs/default-source/wabash-trailer-downloads/van-trailers-product-sheets/Dry-van-duraplate-cell-core-tech.pdf?utm_source=website&amp;utm_medium=downloadable&amp;utm_campaign=wabash_standard_dryvan</loc>
+        <lastmod>2026-03-01</lastmod>
+        <coveo:metadata>
+            <title>DuraPlate Cell Core Technology Product Sheet</title>
+            <content_type>PDF Document</content_type>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://onewabash.com/docs/default-source/wabash-trailer-downloads/van-trailers-product-sheets/duraplate-pup-van.pdf?sfvrsn=233c937d_19</loc>
+        <lastmod>2026-03-01</lastmod>
+        <coveo:metadata>
+            <title>DuraPlate Pup Van Product Sheet</title>
+            <content_type>PDF Document</content_type>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://onewabash.com/docs/default-source/wabash-trailer-downloads/van-trailers-product-sheets/converter-dolly.pdf?sfvrsn=c3c7623a_8</loc>
+        <lastmod>2026-03-01</lastmod>
+        <coveo:metadata>
+            <title>Converter Dolly Product Sheet</title>
+            <content_type>PDF Document</content_type>
+        </coveo:metadata>
+    </url>
+
+</urlset>
