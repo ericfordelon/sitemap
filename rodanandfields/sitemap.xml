@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:coveo="https://www.coveo.com/en/company/about-us">
+
+    <url>
+        <loc>https://www.rodanandfields.com/en-us/blog/hair-concerns/best-sulfate-free-shampoos/</loc>
+        <lastmod>2026-04-15</lastmod>
+        <coveo:metadata>
+            <title>Best Sulfate-Free Shampoos</title>
+            <content_type>Blog Post</content_type>
+            <category>Hair Concerns</category>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://www.rodanandfields.com/en-us/blog/skincare-guides/microdermabrasion-for-face-vs-body/</loc>
+        <lastmod>2026-04-15</lastmod>
+        <coveo:metadata>
+            <title>Microdermabrasion for Face vs Body</title>
+            <content_type>Blog Post</content_type>
+            <category>Skincare Guides</category>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://www.rodanandfields.com/en-us/blog/doctors-notes/rodan-fields-transforming-skincare-innovation-with-expert-dermatologist-insights/</loc>
+        <lastmod>2026-04-15</lastmod>
+        <coveo:metadata>
+            <title>Rodan + Fields Transforming Skincare Innovation with Expert Dermatologist Insights</title>
+            <content_type>Blog Post</content_type>
+            <category>Doctors Notes</category>
+        </coveo:metadata>
+    </url>
+
+</urlset>
