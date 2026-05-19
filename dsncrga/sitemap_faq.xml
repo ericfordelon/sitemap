@@ -5,7 +5,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/47186218202395-Backordered-Items</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Backordered Items</coveo:title>
     </coveo:metadata>
@@ -14,7 +14,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/46282959414555-Frequently-Asked-Questions</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Frequently Asked Questions</coveo:title>
     </coveo:metadata>
@@ -23,7 +23,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/46288235260699-Managing-Shopping-Lists</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Managing Shopping Lists</coveo:title>
     </coveo:metadata>
@@ -32,7 +32,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/46282317192475-Tracking-Orders</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Tracking Orders</coveo:title>
     </coveo:metadata>
@@ -41,7 +41,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/47186329695771-Viewing-Your-Order-History</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Viewing Your Order History</coveo:title>
     </coveo:metadata>
@@ -50,7 +50,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/45798112693403-Accessing-and-Downloading-Invoices</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Accessing and Downloading Invoices</coveo:title>
     </coveo:metadata>
@@ -59,7 +59,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/46261981843483-Cancelling-Orders</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Cancelling Orders</coveo:title>
     </coveo:metadata>
@@ -68,7 +68,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/46283526570907-Creating-an-Account</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Creating an Account</coveo:title>
     </coveo:metadata>
@@ -77,7 +77,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/46283799250971-Reordering-Products</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Reordering Products</coveo:title>
     </coveo:metadata>
@@ -86,7 +86,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/46262655197083-Reporting-Order-Issues</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Reporting Order Issues</coveo:title>
     </coveo:metadata>
@@ -95,7 +95,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/47185050929563-Tracking-Orders</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Tracking Orders</coveo:title>
     </coveo:metadata>
@@ -104,7 +104,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/46086846540315-Viewing-Your-Order-History</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Viewing Your Order History</coveo:title>
     </coveo:metadata>
@@ -113,7 +113,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/46280562038683-Backordered-Items</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Backordered Items</coveo:title>
     </coveo:metadata>
@@ -122,7 +122,7 @@
     <loc>https://support.directsupply.com/hc/en-us/articles/46278998889627-Generating-and-Viewing-Quotes</loc>
     <coveo:metadata>
       <coveo:type>faq</coveo:type>
-      <coveo:contentType>FAQ</coveo:contentType>
+      <coveo:dsn_content_type>FAQ</coveo:dsn_content_type>
       <coveo:assetType>support-article</coveo:assetType>
       <coveo:title>Generating and Viewing Quotes</coveo:title>
     </coveo:metadata>
