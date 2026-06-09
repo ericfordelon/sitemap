@@ -1,0 +1,1876 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:coveo="https://www.coveo.com/en/company/about-us" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemalocation="http://www.google.com/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+            <url>
+    <loc>https://www.gknpm.com/en/</loc>
+    <lastmod>2025-04-07T07:50:18+00:00</lastmod>
+    <coveo:metadata>
+      <title>GKN Powder Metallurgy</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/</loc>
+    <lastmod>2025-03-12T11:59:04+00:00</lastmod>
+    <coveo:metadata>
+      <title>Products</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/precision-metal-components/</loc>
+    <lastmod>2025-03-13T09:23:19+00:00</lastmod>
+    <coveo:metadata>
+      <title>Products / Precision Metal Components</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Precision Metal Components</product_line>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-powder-additives/</loc>
+    <lastmod>2025-04-30T15:26:14+00:00</lastmod>
+    <coveo:metadata>
+      <title>Metal Powder Additives</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Powder &amp; Additives</product_line>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/filters-silencers/</loc>
+    <lastmod>2025-03-13T09:23:35+00:00</lastmod>
+    <coveo:metadata>
+      <title>Products / Filters &amp; Silencers</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Filters &amp; Silencers</product_line>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/permanent-magnet-solutions/</loc>
+    <lastmod>2025-03-13T09:23:50+00:00</lastmod>
+    <coveo:metadata>
+      <title>Products / Permanent Magnet Solutions</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Permanent Magnet Solutions</product_line>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/technologies/</loc>
+    <lastmod>2025-03-13T07:00:42+00:00</lastmod>
+    <coveo:metadata>
+      <title>Technologies</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/technologies/conventional-powder-metallurgy/</loc>
+    <lastmod>2025-03-13T15:41:33+00:00</lastmod>
+    <coveo:metadata>
+      <title>Technologies / Conventional Powder Metallurgy</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <technology>Conventional Powder Metallurgy</technology>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/technologies/metal-injection-molding/</loc>
+    <lastmod>2025-04-29T12:52:35+00:00</lastmod>
+    <coveo:metadata>
+      <title>Technologies / Metal Injection Molding</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <technology>Metal Injection Molding</technology>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/technologies/forged-powder-metallurgy/</loc>
+    <lastmod>2025-03-13T15:41:44+00:00</lastmod>
+    <coveo:metadata>
+      <title>Technologies / Forged Powder Metallurgy</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <technology>Forged Powder Metallurgy</technology>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/technologies/metal-additive-manufacturing/</loc>
+    <lastmod>2025-05-01T19:08:31+00:00</lastmod>
+    <coveo:metadata>
+      <title>Technologies / Metal Additive Manufacturing</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <technology>Metal Additive Manufacturing</technology>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/technologies/powder-production/</loc>
+    <lastmod>2025-04-30T16:47:48+00:00</lastmod>
+    <coveo:metadata>
+      <title>Technologies / Powder Production</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <technology>Powder Production</technology>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/technologies/porous-metal-technology/</loc>
+    <lastmod>2025-03-13T15:42:16+00:00</lastmod>
+    <coveo:metadata>
+      <title>Technologies / Porous Metal Technology</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <technology>Porous Metal Technology</technology>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/industries/</loc>
+    <lastmod>2025-03-13T04:44:19+00:00</lastmod>
+    <coveo:metadata>
+      <title>Industries</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Industry</poc_content_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/industries/automotive/</loc>
+    <lastmod>2025-03-14T16:09:56+00:00</lastmod>
+    <coveo:metadata>
+      <title>Industries / Automotive</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Industry</poc_content_type>
+      <industry>Automotive</industry>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/industries/industrial/</loc>
+    <lastmod>2025-03-13T10:13:05+00:00</lastmod>
+    <coveo:metadata>
+      <title>Industries / Industrial</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Industry</poc_content_type>
+      <industry>Industrial</industry>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/industries/consumer-goods-electronics/</loc>
+    <lastmod>2025-03-13T10:12:15+00:00</lastmod>
+    <coveo:metadata>
+      <title>Industries / Consumer Goods &amp; Electronics</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Industry</poc_content_type>
+      <industry>Consumer Goods &amp; Electronics</industry>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/industries/energy/</loc>
+    <lastmod>2025-03-13T10:10:48+00:00</lastmod>
+    <coveo:metadata>
+      <title>Industries / Energy</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Industry</poc_content_type>
+      <industry>Energy</industry>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/industries/food-beverage/</loc>
+    <lastmod>2025-03-13T10:14:37+00:00</lastmod>
+    <coveo:metadata>
+      <title>Industries / Food &amp; Beverage</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Industry</poc_content_type>
+      <industry>Food &amp; Beverage</industry>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/industries/medical-life-sciences/</loc>
+    <lastmod>2025-03-13T10:15:31+00:00</lastmod>
+    <coveo:metadata>
+      <title>Industries / Medical &amp; Life Sciences</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Industry</poc_content_type>
+      <industry>Medical &amp; Life Sciences</industry>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/industries/aerospace-defense/</loc>
+    <lastmod>2025-03-13T09:46:42+00:00</lastmod>
+    <coveo:metadata>
+      <title>Industries / Aerospace &amp; Defense</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Industry</poc_content_type>
+      <industry>Aerospace &amp; Defense</industry>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/industries/marine/</loc>
+    <lastmod>2025-03-13T10:16:42+00:00</lastmod>
+    <coveo:metadata>
+      <title>Industries / Marine</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Industry</poc_content_type>
+      <industry>Marine</industry>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/industries/chemical-processing/</loc>
+    <lastmod>2025-03-20T17:55:12+00:00</lastmod>
+    <coveo:metadata>
+      <title>Industries / Chemical Processing</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Industry</poc_content_type>
+      <industry>Chemical Processing</industry>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/industries/off-road-heavy-machinery/</loc>
+    <lastmod>2025-03-13T09:52:05+00:00</lastmod>
+    <coveo:metadata>
+      <title>Industries / Off-Road &amp; Heavy Machinery</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Industry</poc_content_type>
+      <industry>Off-Road &amp; Heavy Machinery</industry>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/documents-and-support/</loc>
+    <lastmod>2025-04-01T13:19:02+00:00</lastmod>
+    <coveo:metadata>
+      <title>Documents and Support</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Resources</poc_content_type>
+      <resource_type>Documents</resource_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/documents-and-support/document-downloads/</loc>
+    <lastmod>2025-04-03T15:17:22+00:00</lastmod>
+    <coveo:metadata>
+      <title>Documents and Support / Document Downloads</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Resources</poc_content_type>
+      <resource_type>Datasheets</resource_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/documents-and-support/faqs/</loc>
+    <lastmod>2025-03-13T11:13:51+00:00</lastmod>
+    <coveo:metadata>
+      <title>Documents and Support / Frequently Asked Questions</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Resources</poc_content_type>
+      <resource_type>Documents</resource_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/documents-and-support/newsletter/</loc>
+    <lastmod>2025-03-13T09:36:16+00:00</lastmod>
+    <coveo:metadata>
+      <title>Documents and Support / Newsletter</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Resources</poc_content_type>
+      <resource_type>Documents</resource_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/documents-and-support/bearings-calculator/</loc>
+    <lastmod>2025-04-01T13:19:36+00:00</lastmod>
+    <coveo:metadata>
+      <title>Bearings Calculator</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Resources</poc_content_type>
+      <resource_type>Calculator</resource_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/</loc>
+    <lastmod>2025-03-13T15:00:56+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-businesses/</loc>
+    <lastmod>2025-03-13T15:45:25+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Our Businesses</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-businesses/sinter-metals/</loc>
+    <lastmod>2025-03-24T11:41:27+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Our Businesses / Sinter Metals</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-businesses/powder-metallurgy/</loc>
+    <lastmod>2025-03-13T06:38:47+00:00</lastmod>
+    <coveo:metadata>
+      <title>Powder Metallurgy</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-businesses/hoeganaes/</loc>
+    <lastmod>2025-04-04T14:26:28+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Our Businesses / Hoeganaes</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-businesses/metal-additive-manufacturing/</loc>
+    <lastmod>2025-05-05T03:29:54+00:00</lastmod>
+    <coveo:metadata>
+      <title>Metal Additive Manufacturing</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/locations/</loc>
+    <lastmod>2025-03-12T20:28:12+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Locations</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/innovation-and-research/</loc>
+    <lastmod>2025-03-14T12:35:04+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Innovation and Research</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/sustainability/</loc>
+    <lastmod>2025-04-17T16:32:44+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Sustainability</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-leadership/</loc>
+    <lastmod>2025-03-12T20:58:42+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Our Leadership</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-leadership/jean-marc-durbuis/</loc>
+    <lastmod>2025-04-30T16:26:04+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Our Leadership / Jean-Marc Durbuis</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-leadership/diane-wimmer/</loc>
+    <lastmod>2025-04-30T16:26:18+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Our Leadership / Diane Wimmer</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-leadership/gary-harte/</loc>
+    <lastmod>2025-04-30T17:34:52+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Our Leadership / Gary Harte</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-leadership/peter-eichholz/</loc>
+    <lastmod>2025-04-30T16:26:41+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Our Leadership / Peter Eichholz</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-leadership/james-pedder/</loc>
+    <lastmod>2025-04-30T16:26:58+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Our Leadership / James Pedder</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-leadership/wolfram-messner/</loc>
+    <lastmod>2025-04-30T16:27:11+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Our Leadership / Wolfram Messner</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-leadership/audrey-de-wulf/</loc>
+    <lastmod>2025-04-30T16:27:24+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Our Leadership / Audrey De Wulf</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/our-leadership/matthias-voss/</loc>
+    <lastmod>2025-04-30T16:28:26+00:00</lastmod>
+    <coveo:metadata>
+      <title>About Us / Our Leadership / Matthias Voss</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/about-us/turkey/</loc>
+    <lastmod>2025-04-15T21:36:20+00:00</lastmod>
+    <coveo:metadata>
+      <title>Turkey</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/careers/</loc>
+    <lastmod>2025-03-13T06:05:32+00:00</lastmod>
+    <coveo:metadata>
+      <title>Careers</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/careers/working-at-gkn-pm/</loc>
+    <lastmod>2025-03-13T06:16:21+00:00</lastmod>
+    <coveo:metadata>
+      <title>Careers / Working at GKN Powder Metallurgy</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/careers/talent-development/</loc>
+    <lastmod>2025-03-13T09:16:27+00:00</lastmod>
+    <coveo:metadata>
+      <title>Careers / Talent Development</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/careers/open-positions/</loc>
+    <lastmod>2025-03-11T10:57:08+00:00</lastmod>
+    <coveo:metadata>
+      <title>Careers / Open Positions</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/</loc>
+    <lastmod>2025-04-10T16:27:18+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/</loc>
+    <lastmod>2025-04-10T16:18:42+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2024/</loc>
+    <lastmod>2025-03-10T10:41:17+00:00</lastmod>
+    <coveo:metadata>
+      <title>2024</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2024</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2024/gkn-launches-hp-ptl/</loc>
+    <lastmod>2025-03-04T11:21:59+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2024 / Introducing High-Performance PTL for Green Hydrogen Production</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2024</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2024/jean-marc-durbuis-new-ceo-of-gkn-powder-metallurgy/</loc>
+    <lastmod>2025-03-10T10:41:14+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2024 / Jean-Marc Durbuis appointed as new CEO of GKN Powder Metallurgy</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2024</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2024/gkn-powder-metallurgy-awarded-platinum-medal-for-sustainability-excellence/</loc>
+    <lastmod>2025-03-07T15:22:29+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2024 / GKN Powder Metallurgy Awarded Platinum Medal For Sustainability Excellence</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2024</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2023/</loc>
+    <lastmod>2025-03-10T10:42:56+00:00</lastmod>
+    <coveo:metadata>
+      <title>2023</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2023</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2023/dowlais-group-plc-dowlais-or-the-company-completion-of-demerger-and-admission-of-shares-in-dowlais/</loc>
+    <lastmod>2025-03-10T10:42:47+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2023 / Dowlais Group plc (“Dowlais” or the “company”) completion of demerger and admission of shares in Dowlais</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2023</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2022/</loc>
+    <lastmod>2025-03-11T12:57:26+00:00</lastmod>
+    <coveo:metadata>
+      <title>2022</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2022</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2022/gkn-additive-to-showcase-award-winning-metal-binder-jetting-mass-production-capabilities-at-formnext-2022/</loc>
+    <lastmod>2025-03-11T12:52:46+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2022 / GKN Additive To Showcase Award-Winning Metal Binder Jetting Mass Production Capabilities At Formnext 2022</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2022</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2022/gkn-powder-metallurgy-enters-permanent-magnets-for-electric-vehicles-market/</loc>
+    <lastmod>2025-03-14T12:52:20+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2022 / GKN Powder Metallurgy enters permanent magnets for electric vehicles market</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2022</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2022/conflux-technology-and-gkn-additive-to-collaborate-on-heat-exchanger-development-design-and-production-in-europe/</loc>
+    <lastmod>2025-03-11T12:54:56+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2022 / Conflux Technology and GKN Additive to collaborate on heat exchanger development, design and production in Europe</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2022</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2022/gkn-powder-metallurgy-announces-diego-laurent-as-chief-executive-officer/</loc>
+    <lastmod>2025-03-11T12:57:14+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2022 / GKN Powder Metallurgy announces Diego Laurent as Chief Executive Officer</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2022</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2021/</loc>
+    <lastmod>2025-03-11T13:19:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>2021</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2021</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2021/gkn-additive-develops-3d-printing-process-for-low-alloy-dual-phase-steels-dpla-and-fsla-for-automotive-and-industrial-applications/</loc>
+    <lastmod>2025-03-11T13:18:54+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2021 / GKN Additive develops 3D printing process for low alloy dual-phase steels DPLA and FSLA for automotive and industrial applications</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2021</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2020/</loc>
+    <lastmod>2025-03-11T13:28:43+00:00</lastmod>
+    <coveo:metadata>
+      <title>2020</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2020</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2020/gkn-powder-metallurgy-business-forecast-3d-launches-face-shields-stopgap-masks-nasal-swabs-and-other-critical-ppe-products-to-battle-covid-19/</loc>
+    <lastmod>2025-03-11T13:27:57+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2020 / GKN Powder Metallurgy business FORECAST 3D launches face shields, stopgap masks, nasal swabs, and other critical PPE products to battle COVID-19</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2020</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2020/forecast-3d-partners-with-specialty-chemicals-expert-lubrizol-to-industrialize-3d-applications-through-thermoplastic-powder/</loc>
+    <lastmod>2025-03-11T13:28:40+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2020 / FORECAST 3D partners with specialty chemicals expert Lubrizol to industrialize 3D applications through thermoplastic powder</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2020</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2020/forecast-3d-now-producing-nasopharyngeal-swabs-for-covid-19-test-kits/</loc>
+    <lastmod>2025-03-11T13:27:07+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2020 / FORECAST 3D now producing nasopharyngeal swabs for COVID-19 test kits</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2020</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2020/gkn-powder-metallurgy-and-workerbase-partner-to-accelerate-digital-manufacturing/</loc>
+    <lastmod>2025-03-11T13:26:06+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2020 / GKN Powder Metallurgy partners with WORKERBASE to accelerate data-driven manufacturing</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2020</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2020/forecast-3d-offers-versatile-polypropylene-material-for-production-volume/</loc>
+    <lastmod>2025-03-11T13:22:33+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2020 / FORECAST 3D offers versatile Polypropylene material for production volume</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2020</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2020/forecast-3d-reaches-1-million-shipped-nasal-swab-milestone-for-covid-19-testing/</loc>
+    <lastmod>2025-03-11T13:20:57+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2020 / FORECAST 3D reaches 1 million nasal swab milestone for COVID-19 testing</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2020</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2020/the-evolution-of-metal-3d-printing/</loc>
+    <lastmod>2025-03-11T13:19:49+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2020 / The evolution of metal 3D printing: IDAM project reports halfway results on the industrialization of Additive Manufacturing with real-time IoT</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2020</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2019/</loc>
+    <lastmod>2025-03-11T13:37:54+00:00</lastmod>
+    <coveo:metadata>
+      <title>2019</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2019</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2019/gkn-additive-enables-mass-production-of-energy-efficient-industrial-burners-for-kueppers-solutions/</loc>
+    <lastmod>2025-03-11T13:30:17+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2019 / A green partnership: GKN Additive enables mass-production of energy-efficient industrial burners for Kueppers Solutions</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2019</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2019/gkn-additive-prepares-distribution-of-gas-and-water-atomized-powders-for-the-european-metal-3d-printing-market/</loc>
+    <lastmod>2025-03-11T13:30:45+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2019 / GKN Additive prepares distribution of Gas and Water Atomized powders for the European metal 3D printing market</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2019</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2019/gkn-powder-metallurgy-acquires-forecast-3d-expands-additive-manufacturing-capabilities-to-include-plastics/</loc>
+    <lastmod>2025-03-11T13:31:06+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2019 / GKN Powder Metallurgy acquires FORECAST 3D, Expands Additive Manufacturing Capabilities to Include Plastics</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2019</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2019/gkn-powder-metallurgy-invests-in-the-future-of-its-bonn-site-by-opening-state-of-the-art-customer-center/</loc>
+    <lastmod>2025-03-11T13:32:18+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2019 / GKN Powder Metallurgy invests in the future of its Bonn site by opening state-of-the-art customer center</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2019</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2019/gkn-powder-metallurgy-announces-new-north-american-pm-headquarters-and-am-customer-center/</loc>
+    <lastmod>2025-03-11T13:33:46+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2019 / GKN Powder Metallurgy announces new North American PM Headquarters and AM Customer Center</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2019</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2019/bmbf-research-project-idam/</loc>
+    <lastmod>2025-03-11T13:35:32+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2019 / BMBF research project IDAM: Network puts metallic 3D printing on track for automotive series production</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2019</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2019/postnord-and-gkn-powder-metallurgy-collaborate-to-unlock-the-potential-of-3d-printing-in-future-supply-chains/</loc>
+    <lastmod>2025-03-11T13:36:02+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2019 / PostNord and GKN Powder Metallurgy collaborate to unlock the potential of 3D printing in future supply chains</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2019</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2019/gkn-additive-merges-materials-and-components-to-further-accelerate-innovation/</loc>
+    <lastmod>2025-03-11T13:36:42+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2019 / GKN Additive merges Materials and Components to further accelerate innovation</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2019</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2019/gkn-sinter-metals-announces-new-facility-in-mexico/</loc>
+    <lastmod>2025-03-11T13:37:19+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2019 / GKN Sinter Metals  announces facility in Mexico with ground-breaking event</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2019</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2019/gkn-additive-opens-first-customer-center-in-china/</loc>
+    <lastmod>2025-03-11T13:37:51+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2019 / GKN Additive opens first customer center in China</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2019</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2018/</loc>
+    <lastmod>2025-03-11T13:40:51+00:00</lastmod>
+    <coveo:metadata>
+      <title>2018</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2018</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2018/bmbf-research-project-autoadd-paving-the-way-for-additive-manufacturing-for-the-automotive-industry/</loc>
+    <lastmod>2025-03-11T13:38:51+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2018 / BMBF research project AutoAdd: Paving the way for additive manufacturing for the automotive industry</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2018</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2018/gkn-powder-metallurgy-announces-a-technology-partnership-with-eos-to-industrialize-metal-3d-printing/</loc>
+    <lastmod>2025-03-11T13:39:22+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2018 / GKN Powder Metallurgy announces a Technology Partnership with EOS To Industrialize Metal 3D Printing</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2018</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2018/gkn-powder-metallurgy-joins-forces-with-postnord-ab-to-revolutionize-logistics-for-3d-printed-parts/</loc>
+    <lastmod>2025-03-11T13:39:39+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2018 / GKN Powder Metallurgy Joins Forces with PostNord AB to Revolutionize Logistics for 3D Printed Parts</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2018</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2018/gkn-powder-metallurgy-partners-with-hp-and-volkswagen-to-bring-metal-3d-printing-to-mass-production/</loc>
+    <lastmod>2025-03-11T13:40:11+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2018 / GKN Powder Metallurgy Partners with HP and Volkswagen to Bring Metal 3D Printing to Mass Production</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2018</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2018/gkn-powder-metallurgy-becomes-one-of-the-world-s-first-fully-iatf-169492016-certified-3d-metal-printing-suppliers/</loc>
+    <lastmod>2025-03-11T13:40:43+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2018 / GKN Powder Metallurgy becomes one of the world’s first fully IATF 16949:2016 certified 3D metal printing suppliers</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2018</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2017/</loc>
+    <lastmod>2025-03-11T13:46:23+00:00</lastmod>
+    <coveo:metadata>
+      <title>2017</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2017</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2017/gkn-recognised-by-jatco-with-regional-quality-award/</loc>
+    <lastmod>2025-03-11T13:42:37+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2017 / GKN recognised by Jatco with Regional Quality Award</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2017</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2017/gkn-and-ge-additive-sign-mou-for-am-collaboration/</loc>
+    <lastmod>2025-03-11T13:42:14+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2017 / GKN and GE Additive sign MoU for AM collaboration</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2017</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2017/gkn-completes-acquisition-of-turkish-pm-manufacturer-tozmetal/</loc>
+    <lastmod>2025-03-11T13:45:09+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2017 / GKN completes acquisition of Turkish PM manufacturer Tozmetal</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2017</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2017/gkn-sinter-metals-recognised-for-design-excellence-with-two-mpif-awards/</loc>
+    <lastmod>2025-03-11T13:44:48+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2017 / GKN Sinter Metals recognised for Design Excellence with two MPIF awards</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2017</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2017/gkn-sinter-metals-recognised-by-somfy-as-best-supplier/</loc>
+    <lastmod>2025-03-11T13:43:02+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2017 / GKN Sinter Metals recognised by Somfy as 'Best Supplier'</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2017</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2017/gkn-and-eos-collaborate-to-transform-metal-am-into-digital-manufacturing/</loc>
+    <lastmod>2025-03-11T13:46:19+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2017 / GKN and EOS collaborate to transform Metal AM into digital manufacturing</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2017</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2017/gkn-instametal-intuitive-ecommerce-platform-for-additive-manufacturing/</loc>
+    <lastmod>2025-02-26T13:07:17+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2017 / GKN InstAMetal: Intuitive ecommerce platform for Additive Manufacturing</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2017</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2017/gkn-powder-metallurgy-digital-future-in-serial-metal-additive-manufacturing/</loc>
+    <lastmod>2025-03-11T13:45:28+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2017 / GKN Powder Metallurgy: Digital future in serial Metal Additive Manufacturing</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2017</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2017/gkn-to-acquire-turkish-powder-metal-company/</loc>
+    <lastmod>2025-02-26T13:09:44+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2017 / GKN to acquire Turkish powder metal company</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2017</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2016/</loc>
+    <lastmod>2025-03-11T13:51:57+00:00</lastmod>
+    <coveo:metadata>
+      <title>2016</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2016</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2016/gkn-sinter-metals-receives-supplier-award-from-maxon-motor/</loc>
+    <lastmod>2025-03-11T13:51:55+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2016 / GKN Sinter Metals receives Supplier Award from Maxon Motor</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2016</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2016/gkn-sinter-metals-showcases-expertise-in-additive-manufacturing-at-engine-expo-2016/</loc>
+    <lastmod>2025-03-11T13:51:21+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2016 / GKN Sinter Metals showcases expertise in Additive Manufacturing at Engine Expo 2016</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2016</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2016/bonn-manufacturing-companies-meet-at-gkn-sinter-metals/</loc>
+    <lastmod>2025-03-11T13:50:15+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2016 / Bonn manufacturing companies meet at GKN Sinter Metals</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2016</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2016/gkn-sinter-metals-introduces-new-innovation-blog/</loc>
+    <lastmod>2025-03-11T13:50:01+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2016 / GKN Sinter Metals introduces new innovation blog</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2016</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2016/gkn-china-wins-top-business-partner-award-from-getrag-gjt/</loc>
+    <lastmod>2025-03-11T13:48:21+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2016 / GKN China wins ‘Top Business Partner Award’ from GETRAG (GJT)</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2016</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2016/experts-from-the-automotive-industry-came-together-in-the-gkn-sinter-metals-innovation-center-for-the-first-am-consulting-day/</loc>
+    <lastmod>2025-03-11T13:47:35+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2016 / Experts from the automotive industry came together in the GKN Sinter Metals Innovation Center for the first AM Consulting Day</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2016</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2016/british-ambassador-visits-gkn-sinter-metals-in-bonn/</loc>
+    <lastmod>2025-03-11T13:47:22+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2016 / British Ambassador visits GKN Sinter Metals in Bonn</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2016</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2016/gkn-sinter-metals-starts-automotive-series-production-with-3d-printing-system/</loc>
+    <lastmod>2025-03-11T13:49:43+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2016 / GKN Sinter Metals starts automotive series production with 3D printing system</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2016</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2016/gkn-powder-metallurgy-begins-production-of-metal-powder-in-china/</loc>
+    <lastmod>2025-02-26T13:17:48+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2016 / GKN Powder Metallurgy begins production of metal powder in China</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2016</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2016/gkn-powder-metallurgy-awarded-for-design-excellence-by-mpif/</loc>
+    <lastmod>2025-03-11T13:50:48+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2016 / GKN Powder Metallurgy awarded for design excellence by MPIF</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2016</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/news/2016/gkn-sinter-metals-and-additive-industries-are-solving-automotive-challenges-in-3d-metal-printing/</loc>
+    <lastmod>2025-03-11T13:51:07+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / News / 2016 / GKN Sinter Metals and Additive Industries are solving automotive challenges in 3D metal printing</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>News</news_type>
+      <year>2016</year>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/events/</loc>
+    <lastmod>2025-03-13T15:03:53+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / Events</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>Events</news_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/media-library/</loc>
+    <lastmod>2025-03-12T16:40:20+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / Media Library</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>Media</news_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/news-media-and-events/awards/</loc>
+    <lastmod>2025-03-12T21:31:21+00:00</lastmod>
+    <coveo:metadata>
+      <title>News, Media and Events / Awards</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>News &amp; Events</poc_content_type>
+      <news_type>Awards</news_type>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/contact-us/</loc>
+    <lastmod>2025-02-19T11:58:49+00:00</lastmod>
+    <coveo:metadata>
+      <title>Contact Us</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+    </coveo:metadata>
+  </url>
+
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>GKN Powder Metallurgy - Automotive parts</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-780x488/automotive-780x488-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/body-chassis/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Sintered components for body &amp;amp; chassis - GKN Powder Metallurgy</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Body &amp; Chassis</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x488/baugruppe-body--chasis_000-780x488-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/body-chassis/electric-steering-motor-pulley/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Sintered electric steering motor pulleys - GKN Powder Metallurgy</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Body &amp; Chassis</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-automotive-body-chasis-electric-steering-motor-pulley-780x780-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/body-chassis/shock-absorber-piston-ptfe-banded/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Sintered shock absorber pistons - GKN Powder Metallurgy</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Body &amp; Chassis</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-automotive-body-chasis-shock-absorber-piston-780x780-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/drivetrain/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Sintered components for transmission and drivetrain applications</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Drivetrain</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x488/baugruppe_drivetrain_000-780x488-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/drivetrain/actuation-systems-x-by-wire/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Actuation systems/ x-by-wire</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Drivetrain</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-automotive-drivetrain-actuation-systems-780x780-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/drivetrain/differential-gears/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Differential gears</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Drivetrain</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-automotive-drivetrain-differential-gears-780x780-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/drivetrain/edrive-gear/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>eDrive gear - GKN Powder Metallurgy</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Drivetrain</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-automotive-drivetrain-edrive-gear-780x780-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/drivetrain/one-way-clutch-components/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>One Way Clutch Components</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Drivetrain</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/race-1-780-780.png</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/drivetrain/raveneaux-carrier/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Raveneaux Carrier</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Drivetrain</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x488/race-1-780-488.png</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/electric-systems/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Sintered components for electric systems</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Electric Systems</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x488/baugruppe-electric-systems_000-780x488-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/electric-systems/actuator-housing-doors-latches-closures/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Actuator housing (doors, latches, closures)</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Electric Systems</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-electric-systems-actuator-housing-780x780-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/electric-systems/auxiliary-emotor-components/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Auxiliary eMotor components</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Electric Systems</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-electric-systems-auxiliary-emotor-components-780x780-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/electric-systems/solenoids-flow-valves/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Solenoids (flow valves)</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Electric Systems</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-electric-systems-solenoids-780x780-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/engine/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Sintered components for engines - GKN Powder Metallurgy</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Engine</product_subcategory>
+      <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x488/baugruppe-engine_000-780x488-min.jpg</image>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/engine/tombstone-camshaft-cap/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Tombstone Camshaft Cap</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Engine</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/engine/valve-train-roller-finger-follower/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Valve Train Roller Finger Follower</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Engine</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/engine/wt-stator-sprocket/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Wt Stator Sprocket</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Engine</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/pump-systems/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Pump Systems</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Pump Systems</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/pump-systems/g-rotor-pump/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>G Rotor Pump</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Pump Systems</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/pump-systems/vacuum-pump/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Vacuum Pump</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Pump Systems</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/automotive/pump-systems/variable-oil-pump/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Variable Oil Pump</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Automotive</product_line>
+      <product_subcategory>Pump Systems</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Industrial</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/capabilities/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Capabilities</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Capabilities</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Sub Markets</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/compressors/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Compressors</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/compressors/connecting-rod/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Connecting Rod</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/compressors/piston/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Piston</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/compressors/valve-plate/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Valve Plate</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/household/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Household</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/lawn-and-garden/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Lawn And Garden</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/medical-devices/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Medical Devices</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/medical-devices/blocking-hook/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Blocking Hook</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/medical-devices/blocking-plate/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Blocking Plate</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/medical-devices/foot-adaptor-plate/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Foot Adaptor Plate</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/medical-devices/forceps/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Forceps</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/medical-devices/graspers/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Graspers</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/medical-devices/knot-pushers/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Knot Pushers</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/medical-devices/surgery-blades/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Surgery Blades</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/medical-devices/twin-connecting-plate/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Twin Connecting Plate</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/sub-markets/off-road-rvs-motorcycles/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Off Road Rvs Motorcycles</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Sub-Markets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/industrial/technology/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Technology</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Industrial</product_line>
+      <product_subcategory>Technology</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-filters/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Metal Filters</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Filters</product_line>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-filters/fluidizing/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Fluidizing</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Filters</product_line>
+      <product_subcategory>Fluidizing</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-filters/fluidizing/pm-discharge-aid/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Pm Discharge Aid</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Filters</product_line>
+      <product_subcategory>Fluidizing</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-filters/gas-filtration/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Gas Filtration</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Filters</product_line>
+      <product_subcategory>Gas Filtration</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-filters/gas-filtration/filter-cartridge/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Filter Cartridge</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Filters</product_line>
+      <product_subcategory>Gas Filtration</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-filters/liquid-filtration/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Liquid Filtration</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Filters</product_line>
+      <product_subcategory>Liquid Filtration</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-filters/liquid-filtration/filter-cartridge/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Filter Cartridge</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Filters</product_line>
+      <product_subcategory>Liquid Filtration</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-filters/sparging/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Sparging</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Filters</product_line>
+      <product_subcategory>Sparging</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-filters/sparging/pm-sparger/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Pm Sparger</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Filters</product_line>
+      <product_subcategory>Sparging</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-powders/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Metal Powders</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Powders</product_line>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-powders/certifications/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Certifications</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Powders</product_line>
+      <product_subcategory>Certifications</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-powders/material-support-and-guidelines/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Material Support And Guidelines</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Powders</product_line>
+      <product_subcategory>Material Support &amp; Guidelines</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-powders/technical-datasheets/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Technical Datasheets</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Powders</product_line>
+      <product_subcategory>Technical Datasheets</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-powders/technical-papers/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Technical Papers</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Powders</product_line>
+      <product_subcategory>Technical Papers</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-powders/technical-papers/materials/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Materials</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Powders</product_line>
+      <product_subcategory>Technical Papers</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-powders/technical-papers/processing/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Processing</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Powders</product_line>
+      <product_subcategory>Technical Papers</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/metal-powders/technical-papers/properties/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Properties</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Metal Powders</product_line>
+      <product_subcategory>Technical Papers</product_subcategory>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/powder-metal-additives/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Products / Powder Metal &amp; Additives</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Powder Metal &amp; Additives</product_line>
+    </coveo:metadata>
+  </url>
+            <url>
+    <loc>https://www.gknpm.com/en/products/sintered-sliding-bearings/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+    <coveo:metadata>
+      <title>Sintered Sliding Bearings</title>
+      <source_company>GKN Powder Metallurgy</source_company>
+      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <product_line>Sintered Sliding Bearings</product_line>
+    </coveo:metadata>
+  </url>
+</urlset>
+
