@@ -18,7 +18,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Products</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
     </coveo:metadata>
   </url>
             <url>
@@ -27,7 +27,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Products / Precision Metal Components</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Precision Metal Components</product_line>
     </coveo:metadata>
   </url>
@@ -37,18 +37,18 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Metal Powder Additives</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
-      <product_line>Metal Powder &amp; Additives</product_line>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
+      <product_line><![CDATA[Metal Powder & Additives]]></product_line>
     </coveo:metadata>
   </url>
             <url>
     <loc>https://www.gknpm.com/en/products/filters-silencers/</loc>
     <lastmod>2025-03-13T09:23:35+00:00</lastmod>
     <coveo:metadata>
-      <title>Products / Filters &amp; Silencers</title>
+      <title><![CDATA[Products / Filters & Silencers]]></title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
-      <product_line>Filters &amp; Silencers</product_line>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
+      <product_line><![CDATA[Filters & Silencers]]></product_line>
     </coveo:metadata>
   </url>
             <url>
@@ -57,7 +57,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Products / Permanent Magnet Solutions</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Permanent Magnet Solutions</product_line>
     </coveo:metadata>
   </url>
@@ -67,7 +67,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Technologies</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
     </coveo:metadata>
   </url>
             <url>
@@ -76,7 +76,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Technologies / Conventional Powder Metallurgy</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <technology>Conventional Powder Metallurgy</technology>
     </coveo:metadata>
   </url>
@@ -86,7 +86,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Technologies / Metal Injection Molding</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <technology>Metal Injection Molding</technology>
     </coveo:metadata>
   </url>
@@ -96,7 +96,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Technologies / Forged Powder Metallurgy</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <technology>Forged Powder Metallurgy</technology>
     </coveo:metadata>
   </url>
@@ -106,7 +106,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Technologies / Metal Additive Manufacturing</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <technology>Metal Additive Manufacturing</technology>
     </coveo:metadata>
   </url>
@@ -116,7 +116,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Technologies / Powder Production</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <technology>Powder Production</technology>
     </coveo:metadata>
   </url>
@@ -126,7 +126,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Technologies / Porous Metal Technology</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <technology>Porous Metal Technology</technology>
     </coveo:metadata>
   </url>
@@ -163,10 +163,10 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <loc>https://www.gknpm.com/en/industries/consumer-goods-electronics/</loc>
     <lastmod>2025-03-13T10:12:15+00:00</lastmod>
     <coveo:metadata>
-      <title>Industries / Consumer Goods &amp; Electronics</title>
+      <title><![CDATA[Industries / Consumer Goods & Electronics]]></title>
       <source_company>GKN Powder Metallurgy</source_company>
       <poc_content_type>Industry</poc_content_type>
-      <industry>Consumer Goods &amp; Electronics</industry>
+      <industry><![CDATA[Consumer Goods & Electronics]]></industry>
     </coveo:metadata>
   </url>
             <url>
@@ -183,30 +183,30 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <loc>https://www.gknpm.com/en/industries/food-beverage/</loc>
     <lastmod>2025-03-13T10:14:37+00:00</lastmod>
     <coveo:metadata>
-      <title>Industries / Food &amp; Beverage</title>
+      <title><![CDATA[Industries / Food & Beverage]]></title>
       <source_company>GKN Powder Metallurgy</source_company>
       <poc_content_type>Industry</poc_content_type>
-      <industry>Food &amp; Beverage</industry>
+      <industry><![CDATA[Food & Beverage]]></industry>
     </coveo:metadata>
   </url>
             <url>
     <loc>https://www.gknpm.com/en/industries/medical-life-sciences/</loc>
     <lastmod>2025-03-13T10:15:31+00:00</lastmod>
     <coveo:metadata>
-      <title>Industries / Medical &amp; Life Sciences</title>
+      <title><![CDATA[Industries / Medical & Life Sciences]]></title>
       <source_company>GKN Powder Metallurgy</source_company>
       <poc_content_type>Industry</poc_content_type>
-      <industry>Medical &amp; Life Sciences</industry>
+      <industry><![CDATA[Medical & Life Sciences]]></industry>
     </coveo:metadata>
   </url>
             <url>
     <loc>https://www.gknpm.com/en/industries/aerospace-defense/</loc>
     <lastmod>2025-03-13T09:46:42+00:00</lastmod>
     <coveo:metadata>
-      <title>Industries / Aerospace &amp; Defense</title>
+      <title><![CDATA[Industries / Aerospace & Defense]]></title>
       <source_company>GKN Powder Metallurgy</source_company>
       <poc_content_type>Industry</poc_content_type>
-      <industry>Aerospace &amp; Defense</industry>
+      <industry><![CDATA[Aerospace & Defense]]></industry>
     </coveo:metadata>
   </url>
             <url>
@@ -233,10 +233,10 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <loc>https://www.gknpm.com/en/industries/off-road-heavy-machinery/</loc>
     <lastmod>2025-03-13T09:52:05+00:00</lastmod>
     <coveo:metadata>
-      <title>Industries / Off-Road &amp; Heavy Machinery</title>
+      <title><![CDATA[Industries / Off-Road & Heavy Machinery]]></title>
       <source_company>GKN Powder Metallurgy</source_company>
       <poc_content_type>Industry</poc_content_type>
-      <industry>Off-Road &amp; Heavy Machinery</industry>
+      <industry><![CDATA[Off-Road & Heavy Machinery]]></industry>
     </coveo:metadata>
   </url>
             <url>
@@ -479,7 +479,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
     </coveo:metadata>
   </url>
@@ -489,7 +489,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
     </coveo:metadata>
   </url>
@@ -499,7 +499,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>2024</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2024</year>
     </coveo:metadata>
@@ -510,7 +510,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2024 / Introducing High-Performance PTL for Green Hydrogen Production</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2024</year>
     </coveo:metadata>
@@ -521,7 +521,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2024 / Jean-Marc Durbuis appointed as new CEO of GKN Powder Metallurgy</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2024</year>
     </coveo:metadata>
@@ -532,7 +532,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2024 / GKN Powder Metallurgy Awarded Platinum Medal For Sustainability Excellence</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2024</year>
     </coveo:metadata>
@@ -543,7 +543,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>2023</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2023</year>
     </coveo:metadata>
@@ -554,7 +554,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2023 / Dowlais Group plc (“Dowlais” or the “company”) completion of demerger and admission of shares in Dowlais</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2023</year>
     </coveo:metadata>
@@ -565,7 +565,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>2022</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2022</year>
     </coveo:metadata>
@@ -576,7 +576,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2022 / GKN Additive To Showcase Award-Winning Metal Binder Jetting Mass Production Capabilities At Formnext 2022</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2022</year>
     </coveo:metadata>
@@ -587,7 +587,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2022 / GKN Powder Metallurgy enters permanent magnets for electric vehicles market</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2022</year>
     </coveo:metadata>
@@ -598,7 +598,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2022 / Conflux Technology and GKN Additive to collaborate on heat exchanger development, design and production in Europe</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2022</year>
     </coveo:metadata>
@@ -609,7 +609,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2022 / GKN Powder Metallurgy announces Diego Laurent as Chief Executive Officer</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2022</year>
     </coveo:metadata>
@@ -620,7 +620,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>2021</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2021</year>
     </coveo:metadata>
@@ -631,7 +631,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2021 / GKN Additive develops 3D printing process for low alloy dual-phase steels DPLA and FSLA for automotive and industrial applications</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2021</year>
     </coveo:metadata>
@@ -642,7 +642,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>2020</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2020</year>
     </coveo:metadata>
@@ -653,7 +653,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2020 / GKN Powder Metallurgy business FORECAST 3D launches face shields, stopgap masks, nasal swabs, and other critical PPE products to battle COVID-19</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2020</year>
     </coveo:metadata>
@@ -664,7 +664,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2020 / FORECAST 3D partners with specialty chemicals expert Lubrizol to industrialize 3D applications through thermoplastic powder</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2020</year>
     </coveo:metadata>
@@ -675,7 +675,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2020 / FORECAST 3D now producing nasopharyngeal swabs for COVID-19 test kits</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2020</year>
     </coveo:metadata>
@@ -686,7 +686,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2020 / GKN Powder Metallurgy partners with WORKERBASE to accelerate data-driven manufacturing</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2020</year>
     </coveo:metadata>
@@ -697,7 +697,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2020 / FORECAST 3D offers versatile Polypropylene material for production volume</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2020</year>
     </coveo:metadata>
@@ -708,7 +708,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2020 / FORECAST 3D reaches 1 million nasal swab milestone for COVID-19 testing</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2020</year>
     </coveo:metadata>
@@ -719,7 +719,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2020 / The evolution of metal 3D printing: IDAM project reports halfway results on the industrialization of Additive Manufacturing with real-time IoT</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2020</year>
     </coveo:metadata>
@@ -730,7 +730,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>2019</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2019</year>
     </coveo:metadata>
@@ -741,7 +741,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2019 / A green partnership: GKN Additive enables mass-production of energy-efficient industrial burners for Kueppers Solutions</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2019</year>
     </coveo:metadata>
@@ -752,7 +752,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2019 / GKN Additive prepares distribution of Gas and Water Atomized powders for the European metal 3D printing market</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2019</year>
     </coveo:metadata>
@@ -763,7 +763,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2019 / GKN Powder Metallurgy acquires FORECAST 3D, Expands Additive Manufacturing Capabilities to Include Plastics</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2019</year>
     </coveo:metadata>
@@ -774,7 +774,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2019 / GKN Powder Metallurgy invests in the future of its Bonn site by opening state-of-the-art customer center</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2019</year>
     </coveo:metadata>
@@ -785,7 +785,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2019 / GKN Powder Metallurgy announces new North American PM Headquarters and AM Customer Center</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2019</year>
     </coveo:metadata>
@@ -796,7 +796,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2019 / BMBF research project IDAM: Network puts metallic 3D printing on track for automotive series production</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2019</year>
     </coveo:metadata>
@@ -807,7 +807,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2019 / PostNord and GKN Powder Metallurgy collaborate to unlock the potential of 3D printing in future supply chains</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2019</year>
     </coveo:metadata>
@@ -818,7 +818,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2019 / GKN Additive merges Materials and Components to further accelerate innovation</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2019</year>
     </coveo:metadata>
@@ -829,7 +829,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2019 / GKN Sinter Metals  announces facility in Mexico with ground-breaking event</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2019</year>
     </coveo:metadata>
@@ -840,7 +840,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2019 / GKN Additive opens first customer center in China</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2019</year>
     </coveo:metadata>
@@ -851,7 +851,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>2018</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2018</year>
     </coveo:metadata>
@@ -862,7 +862,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2018 / BMBF research project AutoAdd: Paving the way for additive manufacturing for the automotive industry</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2018</year>
     </coveo:metadata>
@@ -873,7 +873,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2018 / GKN Powder Metallurgy announces a Technology Partnership with EOS To Industrialize Metal 3D Printing</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2018</year>
     </coveo:metadata>
@@ -884,7 +884,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2018 / GKN Powder Metallurgy Joins Forces with PostNord AB to Revolutionize Logistics for 3D Printed Parts</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2018</year>
     </coveo:metadata>
@@ -895,7 +895,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2018 / GKN Powder Metallurgy Partners with HP and Volkswagen to Bring Metal 3D Printing to Mass Production</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2018</year>
     </coveo:metadata>
@@ -906,7 +906,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2018 / GKN Powder Metallurgy becomes one of the world’s first fully IATF 16949:2016 certified 3D metal printing suppliers</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2018</year>
     </coveo:metadata>
@@ -917,7 +917,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>2017</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2017</year>
     </coveo:metadata>
@@ -928,7 +928,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2017 / GKN recognised by Jatco with Regional Quality Award</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2017</year>
     </coveo:metadata>
@@ -939,7 +939,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2017 / GKN and GE Additive sign MoU for AM collaboration</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2017</year>
     </coveo:metadata>
@@ -950,7 +950,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2017 / GKN completes acquisition of Turkish PM manufacturer Tozmetal</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2017</year>
     </coveo:metadata>
@@ -961,7 +961,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2017 / GKN Sinter Metals recognised for Design Excellence with two MPIF awards</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2017</year>
     </coveo:metadata>
@@ -972,7 +972,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2017 / GKN Sinter Metals recognised by Somfy as 'Best Supplier'</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2017</year>
     </coveo:metadata>
@@ -983,7 +983,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2017 / GKN and EOS collaborate to transform Metal AM into digital manufacturing</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2017</year>
     </coveo:metadata>
@@ -994,7 +994,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2017 / GKN InstAMetal: Intuitive ecommerce platform for Additive Manufacturing</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2017</year>
     </coveo:metadata>
@@ -1005,7 +1005,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2017 / GKN Powder Metallurgy: Digital future in serial Metal Additive Manufacturing</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2017</year>
     </coveo:metadata>
@@ -1016,7 +1016,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2017 / GKN to acquire Turkish powder metal company</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2017</year>
     </coveo:metadata>
@@ -1027,7 +1027,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>2016</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2016</year>
     </coveo:metadata>
@@ -1038,7 +1038,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2016 / GKN Sinter Metals receives Supplier Award from Maxon Motor</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2016</year>
     </coveo:metadata>
@@ -1049,7 +1049,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2016 / GKN Sinter Metals showcases expertise in Additive Manufacturing at Engine Expo 2016</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2016</year>
     </coveo:metadata>
@@ -1060,7 +1060,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2016 / Bonn manufacturing companies meet at GKN Sinter Metals</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2016</year>
     </coveo:metadata>
@@ -1071,7 +1071,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2016 / GKN Sinter Metals introduces new innovation blog</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2016</year>
     </coveo:metadata>
@@ -1082,7 +1082,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2016 / GKN China wins ‘Top Business Partner Award’ from GETRAG (GJT)</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2016</year>
     </coveo:metadata>
@@ -1093,7 +1093,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2016 / Experts from the automotive industry came together in the GKN Sinter Metals Innovation Center for the first AM Consulting Day</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2016</year>
     </coveo:metadata>
@@ -1104,7 +1104,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2016 / British Ambassador visits GKN Sinter Metals in Bonn</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2016</year>
     </coveo:metadata>
@@ -1115,7 +1115,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2016 / GKN Sinter Metals starts automotive series production with 3D printing system</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2016</year>
     </coveo:metadata>
@@ -1126,7 +1126,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2016 / GKN Powder Metallurgy begins production of metal powder in China</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2016</year>
     </coveo:metadata>
@@ -1137,7 +1137,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2016 / GKN Powder Metallurgy awarded for design excellence by MPIF</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2016</year>
     </coveo:metadata>
@@ -1148,7 +1148,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / News / 2016 / GKN Sinter Metals and Additive Industries are solving automotive challenges in 3D metal printing</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>News</news_type>
       <year>2016</year>
     </coveo:metadata>
@@ -1159,7 +1159,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / Events</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>Events</news_type>
     </coveo:metadata>
   </url>
@@ -1169,7 +1169,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / Media Library</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>Media</news_type>
     </coveo:metadata>
   </url>
@@ -1179,7 +1179,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>News, Media and Events / Awards</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
       <news_type>Awards</news_type>
     </coveo:metadata>
   </url>
@@ -1198,7 +1198,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>GKN Powder Metallurgy - Automotive parts</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-780x488/automotive-780x488-min.jpg</image>
     </coveo:metadata>
@@ -1207,11 +1207,11 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <loc>https://www.gknpm.com/en/products/automotive/body-chassis/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <coveo:metadata>
-      <title>Sintered components for body &amp; chassis - GKN Powder Metallurgy</title>
+      <title><![CDATA[Sintered components for body & chassis - GKN Powder Metallurgy]]></title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
-      <product_subcategory>Body &amp; Chassis</product_subcategory>
+      <product_subcategory><![CDATA[Body & Chassis]]></product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x488/baugruppe-body--chasis_000-780x488-min.jpg</image>
     </coveo:metadata>
   </url>
@@ -1221,9 +1221,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Sintered electric steering motor pulleys - GKN Powder Metallurgy</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
-      <product_subcategory>Body &amp; Chassis</product_subcategory>
+      <product_subcategory><![CDATA[Body & Chassis]]></product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-automotive-body-chasis-electric-steering-motor-pulley-780x780-min.jpg</image>
     </coveo:metadata>
   </url>
@@ -1233,9 +1233,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Sintered shock absorber pistons - GKN Powder Metallurgy</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
-      <product_subcategory>Body &amp; Chassis</product_subcategory>
+      <product_subcategory><![CDATA[Body & Chassis]]></product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-automotive-body-chasis-shock-absorber-piston-780x780-min.jpg</image>
     </coveo:metadata>
   </url>
@@ -1245,7 +1245,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Sintered components for transmission and drivetrain applications</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Drivetrain</product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x488/baugruppe_drivetrain_000-780x488-min.jpg</image>
@@ -1257,7 +1257,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Actuation systems/ x-by-wire</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Drivetrain</product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-automotive-drivetrain-actuation-systems-780x780-min.jpg</image>
@@ -1269,7 +1269,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Differential gears</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Drivetrain</product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-automotive-drivetrain-differential-gears-780x780-min.jpg</image>
@@ -1281,7 +1281,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>eDrive gear - GKN Powder Metallurgy</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Drivetrain</product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-automotive-drivetrain-edrive-gear-780x780-min.jpg</image>
@@ -1293,7 +1293,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>One Way Clutch Components</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Drivetrain</product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/race-1-780-780.png</image>
@@ -1305,7 +1305,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Raveneaux Carrier</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Drivetrain</product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x488/race-1-780-488.png</image>
@@ -1317,7 +1317,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Sintered components for electric systems</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Electric Systems</product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x488/baugruppe-electric-systems_000-780x488-min.jpg</image>
@@ -1329,7 +1329,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Actuator housing (doors, latches, closures)</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Electric Systems</product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-electric-systems-actuator-housing-780x780-min.jpg</image>
@@ -1341,7 +1341,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Auxiliary eMotor components</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Electric Systems</product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-electric-systems-auxiliary-emotor-components-780x780-min.jpg</image>
@@ -1353,7 +1353,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Solenoids (flow valves)</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Electric Systems</product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x780/5.1-electric-systems-solenoids-780x780-min.jpg</image>
@@ -1365,7 +1365,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Sintered components for engines - GKN Powder Metallurgy</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Engine</product_subcategory>
       <image>https://web.archive.org/web/2024/https://www.gknpm.com/globalassets/global-images/divisions/powder-metallurgy-product-tool-780x488/baugruppe-engine_000-780x488-min.jpg</image>
@@ -1377,7 +1377,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Tombstone Camshaft Cap</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Engine</product_subcategory>
     </coveo:metadata>
@@ -1388,7 +1388,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Valve Train Roller Finger Follower</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Engine</product_subcategory>
     </coveo:metadata>
@@ -1399,7 +1399,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Wt Stator Sprocket</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Engine</product_subcategory>
     </coveo:metadata>
@@ -1410,7 +1410,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Pump Systems</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Pump Systems</product_subcategory>
     </coveo:metadata>
@@ -1421,7 +1421,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>G Rotor Pump</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Pump Systems</product_subcategory>
     </coveo:metadata>
@@ -1432,7 +1432,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Vacuum Pump</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Pump Systems</product_subcategory>
     </coveo:metadata>
@@ -1443,7 +1443,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Variable Oil Pump</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Automotive</product_line>
       <product_subcategory>Pump Systems</product_subcategory>
     </coveo:metadata>
@@ -1454,7 +1454,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Industrial</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
     </coveo:metadata>
   </url>
@@ -1464,7 +1464,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Capabilities</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Capabilities</product_subcategory>
     </coveo:metadata>
@@ -1475,7 +1475,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Sub Markets</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1486,7 +1486,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Compressors</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1497,7 +1497,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Connecting Rod</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1508,7 +1508,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Piston</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1519,7 +1519,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Valve Plate</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1530,7 +1530,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Household</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1541,7 +1541,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Lawn And Garden</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1552,7 +1552,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Medical Devices</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1563,7 +1563,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Blocking Hook</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1574,7 +1574,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Blocking Plate</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1585,7 +1585,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Foot Adaptor Plate</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1596,7 +1596,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Forceps</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1607,7 +1607,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Graspers</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1618,7 +1618,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Knot Pushers</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1629,7 +1629,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Surgery Blades</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1640,7 +1640,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Twin Connecting Plate</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1651,7 +1651,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Off Road Rvs Motorcycles</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Sub-Markets</product_subcategory>
     </coveo:metadata>
@@ -1662,7 +1662,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Technology</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Industrial</product_line>
       <product_subcategory>Technology</product_subcategory>
     </coveo:metadata>
@@ -1673,7 +1673,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Metal Filters</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Filters</product_line>
     </coveo:metadata>
   </url>
@@ -1683,7 +1683,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Fluidizing</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Filters</product_line>
       <product_subcategory>Fluidizing</product_subcategory>
     </coveo:metadata>
@@ -1694,7 +1694,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Pm Discharge Aid</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Filters</product_line>
       <product_subcategory>Fluidizing</product_subcategory>
     </coveo:metadata>
@@ -1705,7 +1705,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Gas Filtration</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Filters</product_line>
       <product_subcategory>Gas Filtration</product_subcategory>
     </coveo:metadata>
@@ -1716,7 +1716,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Filter Cartridge</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Filters</product_line>
       <product_subcategory>Gas Filtration</product_subcategory>
     </coveo:metadata>
@@ -1727,7 +1727,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Liquid Filtration</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Filters</product_line>
       <product_subcategory>Liquid Filtration</product_subcategory>
     </coveo:metadata>
@@ -1738,7 +1738,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Filter Cartridge</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Filters</product_line>
       <product_subcategory>Liquid Filtration</product_subcategory>
     </coveo:metadata>
@@ -1749,7 +1749,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Sparging</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Filters</product_line>
       <product_subcategory>Sparging</product_subcategory>
     </coveo:metadata>
@@ -1760,7 +1760,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Pm Sparger</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Filters</product_line>
       <product_subcategory>Sparging</product_subcategory>
     </coveo:metadata>
@@ -1771,7 +1771,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Metal Powders</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Powders</product_line>
     </coveo:metadata>
   </url>
@@ -1781,7 +1781,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Certifications</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Powders</product_line>
       <product_subcategory>Certifications</product_subcategory>
     </coveo:metadata>
@@ -1792,9 +1792,9 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Material Support And Guidelines</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Powders</product_line>
-      <product_subcategory>Material Support &amp; Guidelines</product_subcategory>
+      <product_subcategory><![CDATA[Material Support & Guidelines]]></product_subcategory>
     </coveo:metadata>
   </url>
             <url>
@@ -1803,7 +1803,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Technical Datasheets</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Powders</product_line>
       <product_subcategory>Technical Datasheets</product_subcategory>
     </coveo:metadata>
@@ -1814,7 +1814,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Technical Papers</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Powders</product_line>
       <product_subcategory>Technical Papers</product_subcategory>
     </coveo:metadata>
@@ -1825,7 +1825,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Materials</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Powders</product_line>
       <product_subcategory>Technical Papers</product_subcategory>
     </coveo:metadata>
@@ -1836,7 +1836,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Processing</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Powders</product_line>
       <product_subcategory>Technical Papers</product_subcategory>
     </coveo:metadata>
@@ -1847,7 +1847,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Properties</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Metal Powders</product_line>
       <product_subcategory>Technical Papers</product_subcategory>
     </coveo:metadata>
@@ -1856,10 +1856,10 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <loc>https://www.gknpm.com/en/products/powder-metal-additives/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
     <coveo:metadata>
-      <title>Products / Powder Metal &amp; Additives</title>
+      <title><![CDATA[Products / Powder Metal & Additives]]></title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
-      <product_line>Powder Metal &amp; Additives</product_line>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
+      <product_line><![CDATA[Powder Metal & Additives]]></product_line>
     </coveo:metadata>
   </url>
             <url>
@@ -1868,7 +1868,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <coveo:metadata>
       <title>Sintered Sliding Bearings</title>
       <source_company>GKN Powder Metallurgy</source_company>
-      <poc_content_type>Products &amp; Technologies</poc_content_type>
+      <poc_content_type><![CDATA[Products & Technologies]]></poc_content_type>
       <product_line>Sintered Sliding Bearings</product_line>
     </coveo:metadata>
   </url>
