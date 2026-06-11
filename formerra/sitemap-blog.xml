@@ -11,7 +11,7 @@
       <source_company>Formerra</source_company>
       <poc_content_type>Resources</poc_content_type>
       <resource_type>Blog Post</resource_type>
-      <description>Discover how Formerra’s material science expertise solves mobility innovation challenges — lightweighting, EV performance &amp; supply chain resilience.</description>
+      <description><![CDATA[Discover how Formerra’s material science expertise solves mobility innovation challenges — lightweighting, EV performance & supply chain resilience.]]></description>
     </coveo:metadata>
   </url>
 
@@ -31,7 +31,7 @@
     <loc>https://www.formerra.com/blog/consumer-medical-wearables-qa-usability-materials-and-regulatory-expectations</loc>
     <lastmod>2026-06-09</lastmod>
     <coveo:metadata>
-      <title>Consumer Medical Wearables: A Q&amp;A on Usability, Materials, and Regulatory Expectations</title>
+      <title><![CDATA[Consumer Medical Wearables: A Q&A on Usability, Materials, and Regulatory Expectations]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Resources</poc_content_type>
       <resource_type>Blog Post</resource_type>
@@ -53,7 +53,7 @@
     <loc>https://www.formerra.com/blog/faq-managing-resin-supply-constraints-affecting-european-manufacturing</loc>
     <lastmod>2026-06-09</lastmod>
     <coveo:metadata>
-      <title>Resin Supply in Europe: FAQs on Shortages, REACH &amp; Alternative Sourcing</title>
+      <title><![CDATA[Resin Supply in Europe: FAQs on Shortages, REACH & Alternative Sourcing]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Resources</poc_content_type>
       <resource_type>Blog Post</resource_type>
@@ -93,7 +93,7 @@
       <source_company>Formerra</source_company>
       <poc_content_type>Resources</poc_content_type>
       <resource_type>Blog Post</resource_type>
-      <description>Boost polymer production efficiency with Formerra’s polymer processing aids. Reduce cycle times, eliminate defects &amp; cut costs for peak resin performance.</description>
+      <description><![CDATA[Boost polymer production efficiency with Formerra’s polymer processing aids. Reduce cycle times, eliminate defects & cut costs for peak resin performance.]]></description>
     </coveo:metadata>
   </url>
 

@@ -32,7 +32,7 @@
     <coveo:metadata>
       <title>Newsroom</title>
       <source_company>Formerra</source_company>
-      <poc_content_type>News &amp; Events</poc_content_type>
+      <poc_content_type><![CDATA[News & Events]]></poc_content_type>
     </coveo:metadata>
   </url>
   <url>
@@ -119,17 +119,17 @@
       <title>Outdoor and Powersports</title>
       <source_company>Formerra</source_company>
       <poc_content_type>Industries</poc_content_type>
-      <industry>Outdoor &amp; Powersports</industry>
+      <industry><![CDATA[Outdoor & Powersports]]></industry>
     </coveo:metadata>
   </url>
   <url>
     <loc>https://www.formerra.com/products/elastomers</loc>
     <lastmod>2025-04-03</lastmod>
     <coveo:metadata>
-      <title>PremiumThermoplastic Elastomers &amp; Adhesives</title>
+      <title><![CDATA[PremiumThermoplastic Elastomers & Adhesives]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
-      <product_category>Elastomers, Adhesives &amp; Sealants</product_category>
+      <product_category><![CDATA[Elastomers, Adhesives & Sealants]]></product_category>
     </coveo:metadata>
   </url>
   <url>
@@ -226,10 +226,10 @@
     <loc>https://www.formerra.com/industries/electrical-and-electronics</loc>
     <lastmod>2025-04-15</lastmod>
     <coveo:metadata>
-      <title>ComprehensiveElectrical &amp; ElectronicsSolutions</title>
+      <title><![CDATA[ComprehensiveElectrical & ElectronicsSolutions]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Industries</poc_content_type>
-      <industry>Electrical &amp; Electronics</industry>
+      <industry><![CDATA[Electrical & Electronics]]></industry>
     </coveo:metadata>
   </url>
   <url>
@@ -262,10 +262,10 @@
     <loc>https://www.formerra.com/industries/building-construction</loc>
     <lastmod>2025-05-19</lastmod>
     <coveo:metadata>
-      <title>Polymers For Building &amp; Construction</title>
+      <title><![CDATA[Polymers For Building & Construction]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Industries</poc_content_type>
-      <industry>Building &amp; Construction</industry>
+      <industry><![CDATA[Building & Construction]]></industry>
     </coveo:metadata>
   </url>
   <url>
@@ -348,7 +348,7 @@
     <loc>https://www.formerra.com/suppliers/dow</loc>
     <lastmod>2025-07-03</lastmod>
     <coveo:metadata>
-      <title>Dow Polyethylene &amp; Elastomers Supplier</title>
+      <title><![CDATA[Dow Polyethylene & Elastomers Supplier]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Suppliers</poc_content_type>
       <supplier>Dow</supplier>
@@ -477,7 +477,7 @@
       <title>INEOS Olefins and Polymers Distributor</title>
       <source_company>Formerra</source_company>
       <poc_content_type>Suppliers</poc_content_type>
-      <supplier>INEOS Olefins &amp; Polymers</supplier>
+      <supplier><![CDATA[INEOS Olefins & Polymers]]></supplier>
     </coveo:metadata>
   </url>
   <url>
@@ -524,7 +524,7 @@
     <loc>https://www.formerra.com/capabilities/quality-compliance/reach-compliance</loc>
     <lastmod>2025-09-26</lastmod>
     <coveo:metadata>
-      <title>Formerra &amp; REACH Compliance</title>
+      <title><![CDATA[Formerra & REACH Compliance]]></title>
       <source_company>Formerra</source_company>
     </coveo:metadata>
   </url>
@@ -598,7 +598,7 @@
     <loc>https://www.formerra.com/supplier/TechmerPM</loc>
     <lastmod>2025-12-03</lastmod>
     <coveo:metadata>
-      <title>Techmer PM | Specialty Color &amp; Additive Solutions</title>
+      <title><![CDATA[Techmer PM | Specialty Color & Additive Solutions]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Suppliers</poc_content_type>
       <supplier>Techmer PM</supplier>
@@ -608,7 +608,7 @@
     <loc>https://www.formerra.com/products/chemistries</loc>
     <lastmod>2026-04-09</lastmod>
     <coveo:metadata>
-      <title>Plastic &amp; Resin Chemistries</title>
+      <title><![CDATA[Plastic & Resin Chemistries]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -618,7 +618,7 @@
     <loc>https://www.formerra.com/products/chemistries/polypropylene-pp</loc>
     <lastmod>2026-04-27</lastmod>
     <coveo:metadata>
-      <title>Polypropylene (PP) Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[Polypropylene (PP) Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -629,7 +629,7 @@
     <loc>https://www.formerra.com/products/chemistries/polycarbonate-pc</loc>
     <lastmod>2026-04-27</lastmod>
     <coveo:metadata>
-      <title>Polycarbonate (PC) Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[Polycarbonate (PC) Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -640,7 +640,7 @@
     <loc>https://www.formerra.com/products/chemistries/pc-abs-blends</loc>
     <lastmod>2026-04-27</lastmod>
     <coveo:metadata>
-      <title>PC/ABS Plastic &amp; Resin Blends Distributor</title>
+      <title><![CDATA[PC/ABS Plastic & Resin Blends Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -651,7 +651,7 @@
     <loc>https://www.formerra.com/products/chemistries/polyethylene-pe</loc>
     <lastmod>2026-04-27</lastmod>
     <coveo:metadata>
-      <title>Polyethylene (PE) Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[Polyethylene (PE) Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -662,7 +662,7 @@
     <loc>https://www.formerra.com/products/chemistries/acrylonitrile-butadiene-styrene-abs</loc>
     <lastmod>2026-04-27</lastmod>
     <coveo:metadata>
-      <title>ABS Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[ABS Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -673,7 +673,7 @@
     <loc>https://www.formerra.com/products/chemistries/acetal-pom</loc>
     <lastmod>2026-05-20</lastmod>
     <coveo:metadata>
-      <title>Acetal (POM) Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[Acetal (POM) Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -684,7 +684,7 @@
     <loc>https://www.formerra.com/products/chemistries/acrylic-pmma</loc>
     <lastmod>2026-05-20</lastmod>
     <coveo:metadata>
-      <title>Acrylic (PMMA) Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[Acrylic (PMMA) Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -695,7 +695,7 @@
     <loc>https://www.formerra.com/products/chemistries/copolyester-cope</loc>
     <lastmod>2026-05-20</lastmod>
     <coveo:metadata>
-      <title>Copolyester Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[Copolyester Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -706,7 +706,7 @@
     <loc>https://www.formerra.com/products/chemistries/ethylene-vinyl-acetate-eva-blends</loc>
     <lastmod>2026-05-21</lastmod>
     <coveo:metadata>
-      <title>EVA Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[EVA Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -717,7 +717,7 @@
     <loc>https://www.formerra.com/products/chemistries/polyamide-nylon-pa</loc>
     <lastmod>2026-05-22</lastmod>
     <coveo:metadata>
-      <title>Polyamide (PA) Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[Polyamide (PA) Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -728,7 +728,7 @@
     <loc>https://www.formerra.com/products/chemistries/thermoplastic-polyester-pet-pbt</loc>
     <lastmod>2026-05-25</lastmod>
     <coveo:metadata>
-      <title>PET/PBT Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[PET/PBT Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -739,7 +739,7 @@
     <loc>https://www.formerra.com/products/chemistries/polystyrene-ps-blends-hips-gpps</loc>
     <lastmod>2026-05-25</lastmod>
     <coveo:metadata>
-      <title>Polystyrene (PS) Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[Polystyrene (PS) Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -750,7 +750,7 @@
     <loc>https://www.formerra.com/products/chemistries/polyvinyl-chloride-pvc</loc>
     <lastmod>2026-05-26</lastmod>
     <coveo:metadata>
-      <title>PVC Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[PVC Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -761,7 +761,7 @@
     <loc>https://www.formerra.com/products/chemistries/silicone-elastomers-lcr-hcr</loc>
     <lastmod>2026-05-26</lastmod>
     <coveo:metadata>
-      <title>Silicone Rubber &amp; Elastomer Distributor</title>
+      <title><![CDATA[Silicone Rubber & Elastomer Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
@@ -772,7 +772,7 @@
     <loc>https://www.formerra.com/products/chemistries/thermoplastic-polyurethane-tpu</loc>
     <lastmod>2026-05-26</lastmod>
     <coveo:metadata>
-      <title>TPU Plastic &amp; Resin Distributor</title>
+      <title><![CDATA[TPU Plastic & Resin Distributor]]></title>
       <source_company>Formerra</source_company>
       <poc_content_type>Products</poc_content_type>
       <product_category>Chemistries</product_category>
