@@ -1,0 +1,677 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:coveo="https://www.coveo.com/en/company/about-us"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemalocation="http://www.google.com/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- ===================== HOME ===================== -->
+  <url>
+    <loc>https://www.terumo.com/</loc>
+    <coveo:metadata>
+      <title>Terumo Corporation</title>
+      <source_company>Terumo</source_company>
+    </coveo:metadata>
+  </url>
+
+  <!-- ===================== ABOUT ===================== -->
+  <url>
+    <loc>https://www.terumo.com/about</loc>
+    <coveo:metadata>
+      <title>About Terumo</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/about/message</loc>
+    <coveo:metadata>
+      <title>Dear Stakeholders</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/about/group-identity</loc>
+    <coveo:metadata>
+      <title>Our Common Identity</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/about/who-we-are</loc>
+    <coveo:metadata>
+      <title>Who We Are</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/about/governance</loc>
+    <coveo:metadata>
+      <title>Corporate Governance</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/about/compliance</loc>
+    <coveo:metadata>
+      <title>Compliance</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/about/regulation</loc>
+    <coveo:metadata>
+      <title>Regulations and Standards</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/about/procurement</loc>
+    <coveo:metadata>
+      <title>Procurement Activity</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/about/at-a-glance</loc>
+    <coveo:metadata>
+      <title>At a Glance</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/about/leadership</loc>
+    <coveo:metadata>
+      <title>Leadership Team</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/about/history</loc>
+    <coveo:metadata>
+      <title>History</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/about/who-we-are/brandvideo-ourpromise-2025</loc>
+    <coveo:metadata>
+      <title><![CDATA[Brand Video "Our Promise"]]></title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/about/education-and-training</loc>
+    <coveo:metadata>
+      <title>Education and Training</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/covid-19</loc>
+    <coveo:metadata>
+      <title><![CDATA[Terumo's Response to COVID-19]]></title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/terumo-ventures</loc>
+    <coveo:metadata>
+      <title>Terumo Ventures</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>About</poc_content_type>
+    </coveo:metadata>
+  </url>
+
+  <!-- ===================== BUSINESS ===================== -->
+  <url>
+    <loc>https://www.terumo.com/business</loc>
+    <coveo:metadata>
+      <title>Business Overview</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Business & Solutions]]></poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/business/tis</loc>
+    <coveo:metadata>
+      <title>Terumo Interventional Systems</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Business & Solutions]]></poc_content_type>
+      <business_unit>Terumo Interventional Systems</business_unit>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/business/neurovascular</loc>
+    <coveo:metadata>
+      <title>Terumo Neuro</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Business & Solutions]]></poc_content_type>
+      <business_unit>Terumo Neuro</business_unit>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/business/cardiovascular</loc>
+    <coveo:metadata>
+      <title>Terumo Cardiovascular</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Business & Solutions]]></poc_content_type>
+      <business_unit>Terumo Cardiovascular</business_unit>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/business/aortic</loc>
+    <coveo:metadata>
+      <title>Terumo Aortic</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Business & Solutions]]></poc_content_type>
+      <business_unit>Terumo Aortic</business_unit>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/business/hospital-care-solutions</loc>
+    <coveo:metadata>
+      <title>Hospital Care Solutions</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Business & Solutions]]></poc_content_type>
+      <business_unit>Hospital Care Solutions</business_unit>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/business/life-care-solutions</loc>
+    <coveo:metadata>
+      <title>Life Care Solutions</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Business & Solutions]]></poc_content_type>
+      <business_unit>Life Care Solutions</business_unit>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/business/pharmaceutical-solutions</loc>
+    <coveo:metadata>
+      <title>Pharmaceutical Solutions</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Business & Solutions]]></poc_content_type>
+      <business_unit>Pharmaceutical Solutions</business_unit>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/business/blood-and-cell-technologies</loc>
+    <coveo:metadata>
+      <title><![CDATA[Terumo Blood and Cell Technologies]]></title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Business & Solutions]]></poc_content_type>
+      <business_unit><![CDATA[Blood & Cell Technologies]]></business_unit>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/business/terumo-organ-technologies</loc>
+    <coveo:metadata>
+      <title>Terumo Organ Technologies</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Business & Solutions]]></poc_content_type>
+      <business_unit>Terumo Organ Technologies</business_unit>
+    </coveo:metadata>
+  </url>
+
+  <!-- ===================== TECHNOLOGY ===================== -->
+  <url>
+    <loc>https://www.terumo.com/technology</loc>
+    <coveo:metadata>
+      <title>Technology</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Technology & Innovation]]></poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/technology/device_solution</loc>
+    <coveo:metadata>
+      <title>From Devices to Solutions</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Technology & Innovation]]></poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/technology/device_solution/3Ds</loc>
+    <coveo:metadata>
+      <title><![CDATA[Terumo's strengths — the 3Ds]]></title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Technology & Innovation]]></poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/technology/device_solution/summary</loc>
+    <coveo:metadata>
+      <title>The Solutions Terumo Aims for</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Technology & Innovation]]></poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/technology/basic</loc>
+    <coveo:metadata>
+      <title>Basic Information</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Technology & Innovation]]></poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/technology/basic/rd</loc>
+    <coveo:metadata>
+      <title><![CDATA[Research & Development]]></title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Technology & Innovation]]></poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/technology/basic/production</loc>
+    <coveo:metadata>
+      <title><![CDATA[Production & Supply]]></title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Technology & Innovation]]></poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/technology/basic/intellectual-property</loc>
+    <coveo:metadata>
+      <title>Intellectual Property</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Technology & Innovation]]></poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/technology/basic/terumofellow</loc>
+    <coveo:metadata>
+      <title>Terumo Fellows</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Technology & Innovation]]></poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/technology/stories</loc>
+    <coveo:metadata>
+      <title>Stories - Our Technologies</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[Technology & Innovation]]></poc_content_type>
+    </coveo:metadata>
+  </url>
+
+  <!-- ===================== INVESTORS ===================== -->
+  <url>
+    <loc>https://www.terumo.com/investors</loc>
+    <coveo:metadata>
+      <title>Investors</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/management</loc>
+    <coveo:metadata>
+      <title>Management Policy</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category>Management Policy</ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/management/message</loc>
+    <coveo:metadata>
+      <title>Top Management Message</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category>Management Policy</ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/management/risk</loc>
+    <coveo:metadata>
+      <title>Business Risks</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category>Management Policy</ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/disclaimer</loc>
+    <coveo:metadata>
+      <title>Disclaimer</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category>Management Policy</ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/management/ir_policy</loc>
+    <coveo:metadata>
+      <title>IR Policy</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category>Management Policy</ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/library</loc>
+    <coveo:metadata>
+      <title>IR Library</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category>IR Library</ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/library/financial-statements</loc>
+    <coveo:metadata>
+      <title>Financial Statements</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category>IR Library</ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/library/presentations</loc>
+    <coveo:metadata>
+      <title>Presentations</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category>IR Library</ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/library/annual-reports</loc>
+    <coveo:metadata>
+      <title>Terumo Reports</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category>IR Library</ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/events</loc>
+    <coveo:metadata>
+      <title>IR Events</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category>Events</ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/financialhighlight</loc>
+    <coveo:metadata>
+      <title>Financial Highlights</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category>Financial Highlights</ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/stocks</loc>
+    <coveo:metadata>
+      <title><![CDATA[Shareholders & Stock]]></title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category><![CDATA[Shareholders & Stock]]></ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/stocks/shareholders_meeting</loc>
+    <coveo:metadata>
+      <title>Shareholders Meeting</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category><![CDATA[Shareholders & Stock]]></ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/stocks/situation</loc>
+    <coveo:metadata>
+      <title>Stock Information</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category><![CDATA[Shareholders & Stock]]></ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/stocks/return</loc>
+    <coveo:metadata>
+      <title>Shareholder Return</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category><![CDATA[Shareholders & Stock]]></ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/stocks/rating</loc>
+    <coveo:metadata>
+      <title><![CDATA[Credit Ratings & Corporate Bond]]></title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category><![CDATA[Shareholders & Stock]]></ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/stocks/analyst</loc>
+    <coveo:metadata>
+      <title>Analyst Coverage</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category><![CDATA[Shareholders & Stock]]></ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/stocks/regulation</loc>
+    <coveo:metadata>
+      <title>Articles of Incorporation</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category><![CDATA[Shareholders & Stock]]></ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/investors/stocks/chart</loc>
+    <coveo:metadata>
+      <title>Stock Quote</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+      <ir_category><![CDATA[Shareholders & Stock]]></ir_category>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/inquiry/investors</loc>
+    <coveo:metadata>
+      <title>IR Inquiries</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type>Investors</poc_content_type>
+    </coveo:metadata>
+  </url>
+
+  <!-- ===================== NEWS & SUSTAINABILITY ===================== -->
+  <url>
+    <loc>https://www.terumo.com/news</loc>
+    <coveo:metadata>
+      <title><![CDATA[What's New]]></title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[News & Sustainability]]></poc_content_type>
+      <news_type>News</news_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/newsrelease</loc>
+    <coveo:metadata>
+      <title>News Releases</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[News & Sustainability]]></poc_content_type>
+      <news_type>News</news_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/newsrelease/detail/20260611/6986</loc>
+    <coveo:metadata>
+      <title><![CDATA[Terumo Selected for the Japanese Government's "Projects for Global Growth of Medical Technologies in 2026"]]></title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[News & Sustainability]]></poc_content_type>
+      <news_type>Press Release</news_type>
+      <year>2026</year>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/newsrelease/detail/20260514/6966</loc>
+    <coveo:metadata>
+      <title><![CDATA[OrganOx Announces Appointment of Naoya Iwata as CEO & President]]></title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[News & Sustainability]]></poc_content_type>
+      <news_type>Press Release</news_type>
+      <year>2026</year>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/system/files/document/2026-05/Press%20Release_20260515_E.pdf</loc>
+    <coveo:metadata>
+      <title>Press Release - May 15, 2026</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[News & Sustainability]]></poc_content_type>
+      <news_type>Press Release</news_type>
+      <resource_type>Press Release PDF</resource_type>
+      <year>2026</year>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/inquiry/press</loc>
+    <coveo:metadata>
+      <title>Press Inquiries</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[News & Sustainability]]></poc_content_type>
+      <news_type>News</news_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/sustainability</loc>
+    <coveo:metadata>
+      <title>Sustainability</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[News & Sustainability]]></poc_content_type>
+      <news_type>Sustainability</news_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/sustainability/news</loc>
+    <coveo:metadata>
+      <title>Sustainability News</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[News & Sustainability]]></poc_content_type>
+      <news_type>Sustainability</news_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/sustainability/management</loc>
+    <coveo:metadata>
+      <title>Sustainability at the Terumo Group</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[News & Sustainability]]></poc_content_type>
+      <news_type>Sustainability</news_type>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/sustainability/gri</loc>
+    <coveo:metadata>
+      <title>GRI Standards Index</title>
+      <source_company>Terumo</source_company>
+      <poc_content_type><![CDATA[News & Sustainability]]></poc_content_type>
+      <news_type>Sustainability</news_type>
+    </coveo:metadata>
+  </url>
+
+  <!-- ===================== CONTACT / LOCATIONS ===================== -->
+  <url>
+    <loc>https://www.terumo.com/contact/locations</loc>
+    <coveo:metadata>
+      <title>Global Network</title>
+      <source_company>Terumo</source_company>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/contact/locations/asia-pacific</loc>
+    <coveo:metadata>
+      <title>Asia and Pacific</title>
+      <source_company>Terumo</source_company>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/contact/locations/emea</loc>
+    <coveo:metadata>
+      <title>Europe, Middle East and Africa</title>
+      <source_company>Terumo</source_company>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/contact/locations/greater-china</loc>
+    <coveo:metadata>
+      <title>Greater China</title>
+      <source_company>Terumo</source_company>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/contact/locations/japan</loc>
+    <coveo:metadata>
+      <title>Japan</title>
+      <source_company>Terumo</source_company>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/contact/locations/north-america</loc>
+    <coveo:metadata>
+      <title>North America</title>
+      <source_company>Terumo</source_company>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/contact/locations/south-america</loc>
+    <coveo:metadata>
+      <title>South America</title>
+      <source_company>Terumo</source_company>
+    </coveo:metadata>
+  </url>
+
+  <!-- ===================== LEGAL / POLICY ===================== -->
+  <url>
+    <loc>https://www.terumo.com/privacy_policy</loc>
+    <coveo:metadata>
+      <title>Privacy Notice</title>
+      <source_company>Terumo</source_company>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/term_of_use</loc>
+    <coveo:metadata>
+      <title>Terms and Conditions of Use</title>
+      <source_company>Terumo</source_company>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/cookie_policy</loc>
+    <coveo:metadata>
+      <title>Cookie Policy</title>
+      <source_company>Terumo</source_company>
+    </coveo:metadata>
+  </url>
+  <url>
+    <loc>https://www.terumo.com/socialmedia_policy</loc>
+    <coveo:metadata>
+      <title>Social Media Policy</title>
+      <source_company>Terumo</source_company>
+    </coveo:metadata>
+  </url>
+
+</urlset>
