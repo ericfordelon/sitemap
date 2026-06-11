@@ -15,4 +15,8 @@
     <sitemap>
         <loc>https://ericfordelon.github.io/sitemap/formerra/sitemap-shop.xml</loc>
     </sitemap>
+
+    <sitemap>
+        <loc>https://ericfordelon.github.io/sitemap/formerra/sitemap-spec.xml</loc>
+    </sitemap>
 </sitemapindex>
