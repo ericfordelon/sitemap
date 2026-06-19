@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
-        <loc>https://www.ivanti.com/products/ivanti-neurons-itsm</loc>
-        <lastmod>2026-02-05</lastmod>
-    </sitemap>
-    <sitemap>
         <loc>https://help.ivanti.com/ht/help/es_ES/CLOUD/vNow/spend-ITAM-integration.htm</loc>
         <lastmod>2026-02-05</lastmod>
     </sitemap>
