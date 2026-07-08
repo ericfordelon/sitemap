@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:coveo="https://www.coveo.com/en/company/about-us">
+
+    <url>
+        <loc>https://yamaha-motor.com/faq</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Frequently Asked Questions]]></title>
+            <ym_content_type><![CDATA[Support]]></ym_content_type>
+            <ym_category><![CDATA[Customer Service]]></ym_category>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/order-lookup</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Order Lookup]]></title>
+            <ym_content_type><![CDATA[Support]]></ym_content_type>
+            <ym_category><![CDATA[Customer Service]]></ym_category>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/customer-service</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Customer Service]]></title>
+            <ym_content_type><![CDATA[Support]]></ym_content_type>
+            <ym_category><![CDATA[Customer Service]]></ym_category>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/help/returns</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Returns]]></title>
+            <ym_content_type><![CDATA[Support]]></ym_content_type>
+            <ym_category><![CDATA[Help]]></ym_category>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/help/shipping-and-delivery</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Shipping and Delivery]]></title>
+            <ym_content_type><![CDATA[Support]]></ym_content_type>
+            <ym_category><![CDATA[Help]]></ym_category>
+        </coveo:metadata>
+    </url>
+
+</urlset>
