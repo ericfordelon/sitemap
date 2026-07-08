@@ -4,583 +4,342 @@
     xmlns:coveo="https://www.coveo.com/en/company/about-us">
 
     <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-announces-all-new-wolverine-rmax4-1000-adventure-side-by-side/</loc>
-        <lastmod>2026-07-07</lastmod>
+        <loc>https://yamaha-motor.com/articles/yamaha-announces-thrilling-new-yzf-r7-and-all-new-adventure-ready-wr125r-dual-sport</loc>
+        <lastmod>2026-07-08</lastmod>
         <coveo:metadata>
-            <title><![CDATA[Yamaha Announces All New Wolverine Rmax4 1000 Adventure Side by Side]]></title>
+            <title><![CDATA[Yamaha Announces Thrilling New YZF-R7 AND All-New Adventure-Ready WR125R Dual Sport]]></title>
+            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
+            <ym_category><![CDATA[Motorcycles]]></ym_category>
+            <ym_thumbnail><![CDATA[https://www.yamahamotorsports.com/media/images/blog/yamaha-announces-thrilling-new-r7-and-all-new-wr125r_2.jpg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-waverunners-rack-up-25-podiums-at-ijsba-world-finals</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha WaveRunners Rack Up 25 Podiums at IJSBA World Finals]]></title>
+            <ym_content_type><![CDATA[Awards & Recognition]]></ym_content_type>
+            <ym_category><![CDATA[WaveRunners & Watercraft]]></ym_category>
+            <ym_tags><![CDATA[WaveRunner]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/07c7f03966e3418793781832abc515a1/brandon-warner-21.jpg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-outdoor-access-initiative-celebrates-national-public-lands-day-by-completing-employee-volunteer-trail-workdays-in-california-and-georgia</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Outdoor Access Initiative Celebrates National Public Lands Day by Completing Employee Volunteer Trail Workdays in California and Georgia]]></title>
+            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
+            <ym_category><![CDATA[General]]></ym_category>
+            <ym_thumbnail><![CDATA[https://www.yamahamotorsports.com/media/images/blog/yamaha-oai-celebrates-national-pubic-lands-day-with-trail-days.jpg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-announces-all-new-wolverine-rmax-4-1000-adventure-side-by-side</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Announces All-New Wolverine RMAX4 1000 Adventure Side-by-Side]]></title>
             <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
             <ym_category><![CDATA[Side-by-Side]]></ym_category>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/globalassets/news/2025-all-new-wolverine/wolverine.jpg]]></ym_thumbnail>
         </coveo:metadata>
     </url>
 
     <url>
-        <loc>https://yamaha-motor.com/legacy-news/hyper-ev-electric-motors/</loc>
-        <lastmod>2026-07-07</lastmod>
+        <loc>https://yamaha-motor.com/articles/yamaha-motor-company-releases-newsletter-detailing-next-generation-ergonomically-designed-handlebar-switchbox</loc>
+        <lastmod>2026-07-08</lastmod>
         <coveo:metadata>
-            <title><![CDATA[Hyper Ev Electric Motors]]></title>
-            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
-            <ym_category><![CDATA[Electric & Innovation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/prototype-hyper-ev-electric-motor/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Prototype Hyper Ev Electric Motor]]></title>
-            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
-            <ym_category><![CDATA[Electric & Innovation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-brings-co-sensor-full-generator-lineup/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Brings Co Sensor Full Generator Lineup]]></title>
-            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
-            <ym_category><![CDATA[Power Products]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/ef2200is-generator/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Ef2200Is Generator]]></title>
-            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
-            <ym_category><![CDATA[Power Products]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-debuts-powertech/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Debuts Powertech]]></title>
-            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
-            <ym_category><![CDATA[Power Products]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/umax-rally-light-utility-vehicle/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Umax Rally Light Utility Vehicle]]></title>
-            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
-            <ym_category><![CDATA[Golf Cars]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/g3-boats-introduction/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[G3 Boats Introduction]]></title>
-            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
-            <ym_category><![CDATA[Boats & Marine]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-navione/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Navione]]></title>
-            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
+            <title><![CDATA[Yamaha Motor Company Releases Newsletter Detailing Next Generation Ergonomically Designed Handlebar Switchbox]]></title>
+            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
             <ym_category><![CDATA[General]]></ym_category>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/globalassets/news/handlebar-switchbox/handlebar-switchbox.png]]></ym_thumbnail>
         </coveo:metadata>
     </url>
 
     <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-watercraft-product-announcement/</loc>
-        <lastmod>2026-07-07</lastmod>
+        <loc>https://yamaha-motor.com/articles/yamaha-marine-wins-innovation-award-for-helm-master-ex-wireless-control-system</loc>
+        <lastmod>2026-07-08</lastmod>
         <coveo:metadata>
-            <title><![CDATA[Yamaha Watercraft Product Announcement]]></title>
-            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
-            <ym_category><![CDATA[WaveRunners & Watercraft]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-watercraft-largest-new-product/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Watercraft Largest New Product]]></title>
-            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
-            <ym_category><![CDATA[WaveRunners & Watercraft]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/golf-car-colors/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Golf Car Colors]]></title>
-            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
-            <ym_category><![CDATA[Golf Cars]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/one-millionth-waverunner/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[One Millionth Waverunner]]></title>
-            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
-            <ym_category><![CDATA[WaveRunners & Watercraft]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-golf-2021-golf-digest-award/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Golf 2021 Golf Digest Award]]></title>
-            <ym_content_type><![CDATA[Awards & Recognition]]></ym_content_type>
-            <ym_category><![CDATA[Golf Cars]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/2018-Boat-of-the-Year/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[2018 Boat of the Year]]></title>
+            <title><![CDATA[Yamaha Marine wins innovation award for Helm Master Ex wireless control system]]></title>
             <ym_content_type><![CDATA[Awards & Recognition]]></ym_content_type>
             <ym_category><![CDATA[Boats & Marine]]></ym_category>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/aca3e730eca74a36a16cb16241dc9620/helm-master-ex.jpg]]></ym_thumbnail>
         </coveo:metadata>
     </url>
 
     <url>
-        <loc>https://yamaha-motor.com/legacy-news/watercraft-of-year/</loc>
-        <lastmod>2026-07-07</lastmod>
+        <loc>https://yamaha-motor.com/articles/yamaha-announces-2026-atv-lineup</loc>
+        <lastmod>2026-07-08</lastmod>
         <coveo:metadata>
-            <title><![CDATA[Watercraft of Year]]></title>
+            <title><![CDATA[Yamaha Announces 2026 ATV Lineup]]></title>
+            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
+            <ym_category><![CDATA[ATVs]]></ym_category>
+            <ym_thumbnail><![CDATA[https://www.yamahamotorsports.com/media/images/blog/yamaha-announces-2026-atv-lineup.jpg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-unveils-2026-side-by-side-vehicles</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Unveils 2026 Side-by-Side Vehicles: Proven Off-Road Excellence]]></title>
+            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
+            <ym_category><![CDATA[Side-by-Side]]></ym_category>
+            <ym_thumbnail><![CDATA[https://www.yamahamotorsports.com/media/images/blog/yamaha-unveils-2026-side-by-side-vehicles.jpg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-mt-09sp-takes-first-place-honors-in-cycle-news-naked-middleweight-bike-shootout</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha MT-09SP Takes First Place Honors in Cycle News "Naked" Middleweight Bike Shootout]]></title>
             <ym_content_type><![CDATA[Awards & Recognition]]></ym_content_type>
-            <ym_category><![CDATA[WaveRunners & Watercraft]]></ym_category>
+            <ym_category><![CDATA[Motorcycles]]></ym_category>
+            <ym_tags><![CDATA[Motorsports;Motorcycle]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/29fe26fe0e0b4103818815b5cff3ffb2/screenshot-2025-07-25-132348.png]]></ym_thumbnail>
         </coveo:metadata>
     </url>
 
     <url>
-        <loc>https://yamaha-motor.com/legacy-news/neptune-awards/</loc>
-        <lastmod>2026-07-07</lastmod>
+        <loc>https://yamaha-motor.com/articles/yamaha-motor-collaborated-on-original-sci-fi-anime-netflix-series-tokyo-override</loc>
+        <lastmod>2026-07-08</lastmod>
         <coveo:metadata>
-            <title><![CDATA[Neptune Awards]]></title>
-            <ym_content_type><![CDATA[Awards & Recognition]]></ym_content_type>
-            <ym_category><![CDATA[Awards & Recognition]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-claims-innovation-award/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Claims Innovation Award]]></title>
-            <ym_content_type><![CDATA[Awards & Recognition]]></ym_content_type>
-            <ym_category><![CDATA[Awards & Recognition]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/2020-best-vonore-award/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[2020 Best Vonore Award]]></title>
-            <ym_content_type><![CDATA[Awards & Recognition]]></ym_content_type>
-            <ym_category><![CDATA[Awards & Recognition]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-2018-award-recap/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha 2018 Award Recap]]></title>
-            <ym_content_type><![CDATA[Awards & Recognition]]></ym_content_type>
-            <ym_category><![CDATA[Awards & Recognition]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/g3-boasts-top-products-list/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[G3 Boasts Top Products List]]></title>
-            <ym_content_type><![CDATA[Awards & Recognition]]></ym_content_type>
-            <ym_category><![CDATA[General]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-275-series-boat-wins/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha 275 Series Boat Wins]]></title>
-            <ym_content_type><![CDATA[Awards & Recognition]]></ym_content_type>
-            <ym_category><![CDATA[Boats & Marine]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yxz1000r-off-road-racing/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yxz1000R Off Road Racing]]></title>
+            <title><![CDATA[Yamaha Motor Collaborated on Original Sci-Fi Anime Series, 'Tokyo Override']]></title>
             <ym_content_type><![CDATA[Racing & Competition]]></ym_content_type>
-            <ym_category><![CDATA[Side-by-Side]]></ym_category>
+            <ym_category><![CDATA[Motorcycles]]></ym_category>
+            <ym_tags><![CDATA[Motorsports;Motorcycle]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/f8857991a63b4c0d8cd5188901c0b927/99384_0001-thumb-761x429-258094.png]]></ym_thumbnail>
         </coveo:metadata>
     </url>
 
     <url>
-        <loc>https://yamaha-motor.com/legacy-news/championship-yfz450r/</loc>
-        <lastmod>2026-07-07</lastmod>
+        <loc>https://yamaha-motor.com/articles/yamaha-roush-and-regulator-marine-make-waves-during-2024-sema-show-with-worlds-first-hydrogen-powered-outboard</loc>
+        <lastmod>2026-07-08</lastmod>
         <coveo:metadata>
-            <title><![CDATA[Championship Yfz450R]]></title>
+            <title><![CDATA[Yamaha, Roush and Regulator Marine Make Waves During 2024 SEMA Show® with World’s First Hydrogen-Powered Outboard]]></title>
+            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
+            <ym_category><![CDATA[Boats & Marine]]></ym_category>
+            <ym_tags><![CDATA[Product Launch;Sustainability;Yamaha Rightwaters;Marine;Hydrogen Energy;Low-Carbon]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/ea9cacf81dc446859bf8197a2f17e404/hydromarine_hero2.png]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-waverunner-racing-wins-aquax-pro-enduro-national-tour-championship-perfect-season</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha WaveRunner Racing Wins P1 AquaX Pro Enduro National Tour Championship Dustin Farthing Rides Yamaha FX SXHO WaveRunner to Perfect Season]]></title>
+            <ym_content_type><![CDATA[Awards & Recognition]]></ym_content_type>
+            <ym_category><![CDATA[WaveRunners & Watercraft]]></ym_category>
+            <ym_tags><![CDATA[WaveRunner]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/bc38c8ee7b744277be67328b8bd92ad1/dustin-farthing.webp]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-unveils-remaining-2025-motorcycle-lineup-featuring-the-all-new-mt-07</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Unveils Remaining 2025 Motorcycle Lineup Featuring the All-New MT-07]]></title>
+            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
+            <ym_category><![CDATA[Motorcycles]]></ym_category>
+            <ym_tags><![CDATA[Motorsports;Product Launch;Next Generation;Innovation;MT-09]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/cd3da1babcea44549288fa0b60bb7aed/11_2025_mt07sgy_mlnm4_us_00_yy_003.png]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-motor-corporation-usa-donates-an-additional-500-generators-to-the-red-cross-for-hurricane-relief</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Motor Corporation U.S.A. Donates an Additional 500 Generators to the Red Cross for Hurricane Relief]]></title>
+            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
+            <ym_category><![CDATA[General]]></ym_category>
+            <ym_tags><![CDATA[Sustainability;Business;Safety]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/954d9fc11b114051b0b247fe97585d48/hero110124_big.png]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-waverunners-dominate-ijsba-world-finals-with-14-titles-eyes-now-on-p-1-aquax-pro-enduro-championship</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha WaveRunners Dominate IJSBA World Finals with 14 Titles, Eyes Now on P1 AquaX Pro Enduro Championship]]></title>
+            <ym_content_type><![CDATA[Awards & Recognition]]></ym_content_type>
+            <ym_category><![CDATA[WaveRunners & Watercraft]]></ym_category>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/5df31b8fedd84160ba714527ccfbfd25/skipps.jpeg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-rightwaters-lends-support-to-international-game-fish-association</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Rightwaters™ Lends Support to International Game Fish Association®]]></title>
+            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
+            <ym_category><![CDATA[Boats & Marine]]></ym_category>
+            <ym_tags><![CDATA[Sustainability;Outdoor Access Initiative;Yamaha Rightwaters;Marine]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/62aa81954d29495cbfb47f866bf23f58/rightwatershero.png]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/long-time-wisconsin-yamaha-snowmobile-dealer-celebrates-the-final-edition-in-grand-style</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Long-Time Wisconsin Yamaha Snowmobile Dealer Celebrates the “Final Edition” in Grand Style]]></title>
+            <ym_content_type><![CDATA[Racing & Competition]]></ym_content_type>
+            <ym_category><![CDATA[Racing & Motorsports]]></ym_category>
+            <ym_tags><![CDATA[Motorsports]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/927a1e1bd9e640d7a9473f0dd07ee725/snowmobile.jpg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-and-siren-marine-proudly-introduces-siren-3</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha and Siren Marine Proudly Introduces Siren 3]]></title>
+            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
+            <ym_category><![CDATA[Boats & Marine]]></ym_category>
+            <ym_tags><![CDATA[Sustainability;Marine;Research;Next Generation;Innovation]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/e4cabb135a494e7494bfe41bc8c25cb5/siren3-banner.jpg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-motor-corporation-usa-donates-1000000-of-portable-generators-to-american-red-cross-hurricane-relief-efforts</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Motor Corporation U.S.A. Donates $1,000,000 of Portable Generators to American Red Cross Hurricane Relief Efforts]]></title>
+            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
+            <ym_category><![CDATA[General]]></ym_category>
+            <ym_tags><![CDATA[Sustainability;Georgia;Business;Safety]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/be0b1864b6234a6182d75b94fd7a7b2e/hurricangenerator.jpeg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-announces-the-exhilarating-all-new-yzf-r-9</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Announces the Exhilarating All-New YZF-R9]]></title>
+            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
+            <ym_category><![CDATA[Motorcycles]]></ym_category>
+            <ym_tags><![CDATA[Motorsports;Product Launch;Next Generation;Innovation;Motorcycle]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/contentassets/f1c9db762b1040fab54fe7000110f91e/11-2025-yzfr9sl-dpbmc-us-12-yy-58726.jpg.webp]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/marine-and-golf-car-join-forces-for-carbon-neutral-future</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Marine and Golf Car Join Forces for Carbon Neutral Future]]></title>
+            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
+            <ym_category><![CDATA[Boats & Marine]]></ym_category>
+            <ym_tags><![CDATA[Marine;Research;Hydrogen Energy;Next Generation;Innovation;Golf Car]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/globalassets/news/marine-golf-car-carbon-neutral-future/dsc05840-new.jpg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-announces-2025-proven-off-road-atv-models</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Announces 2025 Proven Off-Road ATV Models]]></title>
+            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
+            <ym_category><![CDATA[ATVs]]></ym_category>
+            <ym_tags><![CDATA[Motorsports;Product Launch;Off-Road;ATV]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/globalassets/news/2025-proven-off-road-atv/2025-proven-off-road-atv.png]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-motor-first-in-japan-to-adopt-low-carbon-recycled-steel-for-motorcycle-packaging-frames</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Motor First in Japan to Adopt Low-Carbon Recycled Steel for Motorcycle Packaging Frames]]></title>
+            <ym_content_type><![CDATA[Racing & Competition]]></ym_content_type>
+            <ym_category><![CDATA[Motorcycles]]></ym_category>
+            <ym_tags><![CDATA[Motorsports;Sustainability;Research;Conservation;Motorcycle;Low-Carbon]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/globalassets/news/low-carbon-recycled-steel/low-carbon-recycled-steel-sheets-new.jpg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-us-marine-business-unit-makes-personal-watercraft-donation-to-the-florida-fish-and-wildlife-conservation-commission</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha U.S. Marine Business Unit Makes Personal Watercraft Donation to The Florida Fish and Wildlife Conservation Commission]]></title>
+            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
+            <ym_category><![CDATA[WaveRunners & Watercraft]]></ym_category>
+            <ym_tags><![CDATA[Sustainability;Marine;WaveRunner;Florida;Conservation;Personal Watercraft]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/globalassets/news/pwc-donation-wcc/pwc-donation-wcc-1-new.jpg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-announces-new-yz-250-fx</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Announces New YZ250FX]]></title>
+            <ym_content_type><![CDATA[Product Announcement]]></ym_content_type>
+            <ym_category><![CDATA[Motorcycles]]></ym_category>
+            <ym_tags><![CDATA[Motorsports;Product Launch;Motorcycle;Off-Road;YZ250]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/globalassets/news/2025-new-yz250fx/2025-new-yz250fx.png]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-rightwaters-marks-fifth-anniversary-reports-initiative-progress</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Rightwaters Marks Fifth Anniversary, Reports Initiative Progress]]></title>
+            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
+            <ym_category><![CDATA[Boats & Marine]]></ym_category>
+            <ym_tags><![CDATA[Sustainability;Solar Arrays;Georgia;Yamaha Rightwaters;World Oceans Day;Marine;Research;Fuel Cells;Hydrogen Energy]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/globalassets/news/rightwaters-fifth-anniversary/rightwaters-fifth-anniversary-new.jpg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-outdoor-access-initiative-reaches-milestone-with-500-th-grant</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Outdoor Access Initiative Reaches Milestone With 500th Grant]]></title>
             <ym_content_type><![CDATA[Racing & Competition]]></ym_content_type>
             <ym_category><![CDATA[ATVs]]></ym_category>
+            <ym_tags><![CDATA[Motorsports;Sustainability;Outdoor Access Initiative;Off-Highway Vehicle;Safety]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/globalassets/news/outdoor-access-initiative-500-grant/outdoor-access-initiative-500-grant.png]]></ym_thumbnail>
         </coveo:metadata>
     </url>
 
     <url>
-        <loc>https://yamaha-motor.com/legacy-news/2018-monster-energy-cup/</loc>
-        <lastmod>2026-07-07</lastmod>
+        <loc>https://yamaha-motor.com/articles/motoroids-evolutionary-path-to-explore-new-human-machine-relationships</loc>
+        <lastmod>2026-07-08</lastmod>
         <coveo:metadata>
-            <title><![CDATA[2018 Monster Energy Cup]]></title>
-            <ym_content_type><![CDATA[Racing & Competition]]></ym_content_type>
-            <ym_category><![CDATA[Racing & Motorsports]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/2018-ijsba-world-racing-finals/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[2018 Ijsba World Racing Finals]]></title>
-            <ym_content_type><![CDATA[Racing & Competition]]></ym_content_type>
-            <ym_category><![CDATA[Racing & Motorsports]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-wins-quadcross-of-nations/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Wins Quadcross of Nations]]></title>
-            <ym_content_type><![CDATA[Racing & Competition]]></ym_content_type>
-            <ym_category><![CDATA[ATVs]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/mason-dixon-gncc/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Mason Dixon Gncc]]></title>
-            <ym_content_type><![CDATA[Racing & Competition]]></ym_content_type>
-            <ym_category><![CDATA[Racing & Motorsports]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/rmax-1000-dominates-the-rubicon-trail/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Rmax 1000 Dominates the Rubicon Trail]]></title>
-            <ym_content_type><![CDATA[Racing & Competition]]></ym_content_type>
-            <ym_category><![CDATA[Side-by-Side]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-xt-reme-terrain-challenge/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Xt Reme Terrain Challenge]]></title>
-            <ym_content_type><![CDATA[Racing & Competition]]></ym_content_type>
-            <ym_category><![CDATA[Racing & Motorsports]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/annual-mini-os/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Annual Mini Os]]></title>
-            <ym_content_type><![CDATA[Racing & Competition]]></ym_content_type>
-            <ym_category><![CDATA[Racing & Motorsports]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/carbon-neutrality/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Carbon Neutrality]]></title>
-            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
-            <ym_category><![CDATA[Environmental & Conservation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-rightwaters-2022/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Rightwaters 2022]]></title>
-            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
-            <ym_category><![CDATA[Environmental & Conservation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-rightwaters-powers-redfish-study-at-university-of-florida/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Rightwaters Powers Redfish Study at University of Florida]]></title>
-            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
-            <ym_category><![CDATA[Environmental & Conservation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/rightwaters-funding/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Rightwaters Funding]]></title>
-            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
-            <ym_category><![CDATA[Environmental & Conservation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/rightwaterstm-matanzas-river-cleanup-effort/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Rightwaterstm Matanzas River Cleanup Effort]]></title>
-            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
-            <ym_category><![CDATA[Environmental & Conservation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-outdoor-conservation/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Outdoor Conservation]]></title>
-            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
-            <ym_category><![CDATA[Environmental & Conservation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/earth-day/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Earth Day]]></title>
-            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
-            <ym_category><![CDATA[Environmental & Conservation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/22-yamaha-outdoor-access-initiative/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[22 Yamaha Outdoor Access Initiative]]></title>
-            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
-            <ym_category><![CDATA[Environmental & Conservation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/21-yamaha-outdoor-access-initiative/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[21 Yamaha Outdoor Access Initiative]]></title>
-            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
-            <ym_category><![CDATA[Environmental & Conservation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-outdoor-access-initiative/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Outdoor Access Initiative]]></title>
-            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
-            <ym_category><![CDATA[Environmental & Conservation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-supports-gulf-coast-initiative/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Supports Gulf Coast Initiative]]></title>
-            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
-            <ym_category><![CDATA[Environmental & Conservation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-pro-ish-monroe-clean-nickajack-lake/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Pro Ish Monroe Clean Nickajack Lake]]></title>
-            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
-            <ym_category><![CDATA[Environmental & Conservation]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/field-born/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Field Born]]></title>
+            <title><![CDATA[MOTOROiD's Evolutionary Path to Explore New Human-Machine Relationships]]></title>
             <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
+            <ym_category><![CDATA[Innovation & Technology]]></ym_category>
+            <ym_tags><![CDATA[Research;MOTOROiD 2;Japan Mobility Show;Proof of Concept;Artificial Intelligence]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/globalassets/news/motoroid-2/motoroid2-image-new.jpg]]></ym_thumbnail>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://yamaha-motor.com/articles/yamaha-moves-toward-carbon-neutrality-in-georgia-with-installation-of-solar-arrays-at-kennesaw-and-newnan-facilities</loc>
+        <lastmod>2026-07-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Yamaha Moves Toward Carbon Neutrality in Georgia with Installation of Solar Arrays at Kennesaw and Newnan Facilities]]></title>
+            <ym_content_type><![CDATA[Environmental & Conservation]]></ym_content_type>
             <ym_category><![CDATA[General]]></ym_category>
+            <ym_tags><![CDATA[Sustainability;Solar Arrays;Georgia;Business]]></ym_tags>
+            <ym_thumbnail><![CDATA[https://yamo04mstr8hf98prod.dxcloud.episerver.net/globalassets/news/carbon-neutrality-solar-panels/carbon-neutrality-solar-arrays.jpg]]></ym_thumbnail>
         </coveo:metadata>
     </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/two-yamahas-one-passion/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Two Yamahas One Passion]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[General]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yppi-facility/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yppi Facility]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[General]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-30-years-of-u-s-manufacturing/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha 30 Years of U s Manufacturing]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[General]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-motor-expands/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Motor Expands]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[General]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-marine-maintenance-certification-program-helps-solve-industry-challenge/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Marine Maintenance Certification Program Helps Solve Industry Challenge]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[Boats & Marine]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-marine-business-unit-expands-technical-school-partnership-program/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Marine Business Unit Expands Technical School Partnership Program]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[Boats & Marine]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/humanitarian-aid-ukraine/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Humanitarian Aid Ukraine]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[General]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/tornado-relief/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Tornado Relief]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[General]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/Yamaha-Donates-to-Panama-City-Florida/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Donates to Panama City Florida]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[General]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-donate-outboards/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Donate Outboards]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[Boats & Marine]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/yamaha-golf-car-donation/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Yamaha Golf Car Donation]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[Golf Cars]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/employee-volunteer-project/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Employee Volunteer Project]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[General]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/new-craftsmanship-website/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[New Craftsmanship Website]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[General]]></ym_category>
-        </coveo:metadata>
-    </url>
-
-    <url>
-        <loc>https://yamaha-motor.com/legacy-news/navione-challenge/</loc>
-        <lastmod>2026-07-07</lastmod>
-        <coveo:metadata>
-            <title><![CDATA[Navione Challenge]]></title>
-            <ym_content_type><![CDATA[Company & Community]]></ym_content_type>
-            <ym_category><![CDATA[General]]></ym_category>
-        </coveo:metadata>
-    </url>
-
 </urlset>
