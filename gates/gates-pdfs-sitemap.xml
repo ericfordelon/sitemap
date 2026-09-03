@@ -499,4 +499,69 @@
         </coveo:metadata>
     </url>
 
+    <url>
+        <loc>https://www.gates.com/us/en/innovations-and-solutions/innovations/data-center-pumps.html</loc>
+        <lastmod>2026-09-03</lastmod>
+        <coveo:metadata>
+            <title>AXIAL FLUX DATA CENTER PUMPS</title>
+            <gates_tab>Products &amp; Solutions</gates_tab>
+            <gates_content_type>Solution</gates_content_type>
+            <gates_market>Data Centers</gates_market>
+            <gates_spine>Data Center Cooling</gates_spine>
+            <gates_description>Take control of your data center coolant flow with Gates® Data Center Pumps. Our selection of axial and radial flux motors, dual-mount configurations, and modular, scalable design capabilities work to optimize flow rate and efficiency.</gates_description>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://www.gates.com/us/en/markets/industrial-and-off-highway.html</loc>
+        <lastmod>2026-09-03</lastmod>
+        <coveo:metadata>
+            <title>DRIVING INNOVATION IN INDUSTRY</title>
+            <gates_tab>Markets</gates_tab>
+            <gates_content_type>Market Page</gates_content_type>
+            <gates_market>Industrial &amp; Off-Highway</gates_market>
+            <gates_spine>Data Center Cooling</gates_spine>
+            <gates_description>Gates innovative belts, hoses, and hydraulic solutions for industrial and off-highway applications are designed to boost efficiency and safety across diverse industries.</gates_description>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://www.gates.com/us/en/knowledge-center/resource-library.html</loc>
+        <lastmod>2026-09-03</lastmod>
+        <coveo:metadata>
+            <title>Resources Library</title>
+            <gates_tab>Knowledge Center</gates_tab>
+            <gates_content_type>Knowledge</gates_content_type>
+            <gates_market>Automotive &amp; On-Highway</gates_market>
+            <gates_spine>Automotive Power Transmission</gates_spine>
+            <gates_description>From tech tips &amp; training videos, to whitepapers &amp; case studies, here's where you'll find automotive &amp; industrial resources to help you learn more.</gates_description>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://www.gates.com/us/en/power-transmission/micro-v-belts/industrial-micro-v-belts.html</loc>
+        <lastmod>2026-09-03</lastmod>
+        <coveo:metadata>
+            <title>INDUSTRIAL MICRO-V BELTS</title>
+            <gates_tab>Products &amp; Solutions</gates_tab>
+            <gates_content_type>Product Family Page</gates_content_type>
+            <gates_market>Automotive &amp; On-Highway</gates_market>
+            <gates_spine>Automotive Power Transmission</gates_spine>
+            <gates_description>Well suited for appliances, outdoor power equipment, roller conveyors, machine tools, medical equipment and exercise equipment, Gates Micro-V® belts keep industrial applications running smoothly. Water, oil and heat resistant, our complete line of heavy and light-duty micro-V® belts work hard so you don’t have to.</gates_description>
+        </coveo:metadata>
+    </url>
+
+    <url>
+        <loc>https://www.gates.com/us/en/innovations-and-solutions/innovations/gc20-iot-hydraulic-hose-crimper.html</loc>
+        <lastmod>2026-09-03</lastmod>
+        <coveo:metadata>
+            <title>GC20™ HYDRAULIC HOSE CRIMPER</title>
+            <gates_tab>Products &amp; Solutions</gates_tab>
+            <gates_content_type>Solution</gates_content_type>
+            <gates_market>Industrial &amp; Off-Highway</gates_market>
+            <gates_spine>Industrial Hydraulics</gates_spine>
+            <gates_description>Boost operational efficiency with Gates GC20 with Gates Cortex Intelligence. Our smart crimper ensures precise settings, real-time updates, and remote support for flawless crimps.</gates_description>
+        </coveo:metadata>
+    </url>
+
 </urlset>
