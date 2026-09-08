@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:coveo="https://www.coveo.com/en/company/about-us">
+
+    <!-- Website page: Product -->
+    <url>
+        <loc>https://industrial.sherwin-williams.com/na/us/en/protective-marine/catalog/product/products-by-industry.11543396/firetex-fx5090.9983899.html</loc>
+        <lastmod>2026-09-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Firetex® FX5090]]></title>
+            <content_type>Product</content_type>
+            <description><![CDATA[A single-component, water-based, thin-film, intumescent fire protection coating.]]></description>
+            <image>https://s7d2.scene7.com/is/image/sherwinwilliams/B59W05090-20_PM_5GAL_METAL_GREY?wid=1200&amp;hei=630&amp;fit=fit</image>
+            <sw_division><![CDATA[Protective & Marine Coatings]]></sw_division>
+            <sw_chemistry>Intumescent</sw_chemistry>
+            <sw_brand><![CDATA[Firetex®]]></sw_brand>
+            <sw_technology>Waterborne Liquid Coatings</sw_technology>
+            <sw_industry>Food and Beverage; Fire Protection</sw_industry>
+            <sw_voc><![CDATA[<100 g/L (0,83 Lb/Gal)]]></sw_voc>
+            <sw_voc_g_l>100</sw_voc_g_l>
+        </coveo:metadata>
+    </url>
+
+    <!-- Website page: Article -->
+    <url>
+        <loc>https://industrial.sherwin-williams.com/na/us/en/general-industrial/media-center.html</loc>
+        <lastmod>2026-09-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Media Center for Sherwin-Williams Industrial Coatings]]></title>
+            <content_type>Article</content_type>
+            <description><![CDATA[Get the latest Sherwin-Williams industrial coating news. Learn about industrial coating industry updates, get product details, watch helpful videos. More!]]></description>
+            <image>https://s7d2.scene7.com/is/image/sherwinwilliams/no-image?fit=constrain,1&amp;wid=1200</image>
+            <sw_division>General Industrial Coatings</sw_division>
+        </coveo:metadata>
+    </url>
+
+    <!-- Website page: Case Study -->
+    <url>
+        <loc>https://industrial.sherwin-williams.com/na/us/en/protective-marine/media-center/case-studies.html</loc>
+        <lastmod>2026-09-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Case Studies from Sherwin-Williams Protective & Marine]]></title>
+            <content_type>Case Study</content_type>
+            <description><![CDATA[Latest content on variety of industry trends and projects from Sherwin-Williams Protective & Marine]]></description>
+            <image>https://s7d2.scene7.com/is/image/sherwinwilliams/SW_Bridge_and_Highway_Walt_Whiteman_Bridge_AdobeStock_173656844?wid=1200&amp;hei=630&amp;fit=fit</image>
+            <sw_division><![CDATA[Protective & Marine Coatings]]></sw_division>
+        </coveo:metadata>
+    </url>
+
+    <!-- PDF: Safety Data Sheet (paintdocs, regulatory) -->
+    <url>
+        <loc>https://www.paintdocs.com/docs/webPDF.jsp?SITEID=SWPCGPROT&amp;doctype=SDS&amp;prodno=035777859322&amp;lang=2&amp;cntry=US</loc>
+        <lastmod>2026-09-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Firetex® FX5090 - Safety Data Sheet]]></title>
+            <content_type>Safety Data Sheet</content_type>
+            <sw_doctype>SDS</sw_doctype>
+            <sw_division><![CDATA[Protective & Marine Coatings]]></sw_division>
+            <sw_chemistry>Intumescent</sw_chemistry>
+            <sw_industry>Food and Beverage; Fire Protection</sw_industry>
+        </coveo:metadata>
+    </url>
+
+    <!-- PDF: Environmental Data Sheet (paintdocs, regulatory) -->
+    <url>
+        <loc>https://www.paintdocs.com/docs/webPDF.jsp?SITEID=SWPCGPROT&amp;doctype=EDS&amp;prodno=035777859322&amp;lang=2</loc>
+        <lastmod>2026-09-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Firetex® FX5090 - Environmental Data Sheet]]></title>
+            <content_type>Environmental Data Sheet</content_type>
+            <sw_doctype>EDS</sw_doctype>
+            <sw_division><![CDATA[Protective & Marine Coatings]]></sw_division>
+            <sw_chemistry>Intumescent</sw_chemistry>
+            <sw_industry>Food and Beverage; Fire Protection</sw_industry>
+        </coveo:metadata>
+    </url>
+
+    <!-- PDF: on-domain DAM marketing sell sheet -->
+    <url>
+        <loc>https://industrial.sherwin-williams.com/content/dam/pcg/sherwin-williams/protective-marine/na/us/en-us/pdfs/marketing-uploads/Acrolon-Metalizing-Sealer-Sell-Sheet-SW.pdf</loc>
+        <lastmod>2026-09-08</lastmod>
+        <coveo:metadata>
+            <title><![CDATA[Acrolon® Metalizing Sealer - Sell Sheet]]></title>
+            <content_type>Sell Sheet</content_type>
+            <sw_doctype>Sell Sheet</sw_doctype>
+            <sw_division><![CDATA[Protective & Marine Coatings]]></sw_division>
+        </coveo:metadata>
+    </url>
+
+</urlset>
